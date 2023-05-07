@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  oracle:
+    image: doctorkirk/oracle-19c:latest
+    container_name: oracle
+    privileged: true
+    volumes:
+      - oracle_data:/opt/oracle/oradata
+    networks:
+      - dev_net
+    ports:
+      - 1521:1521
+    restart: always
+    environment:
+      - ORACLE_SID=ORCLCDB
+      - ORACLE_PWD=password
+
+networks:
+  dev_net:
+    external: true
+    name: dev_net
+
+volumes:
+  oracle_data:

@@ -1,0 +1,138 @@
+version: "3.9"
+
+services:
+    zookeeper:
+        image: bitnami/zookeeper:3.7.1
+        container_name: zookeeper
+        expose:
+            - "2181" # client connection
+            - "2888" # follower connection
+            - "3888" # other server connection in leader election
+        volumes:
+            - zookeeper_data:/bitnami
+        networks:
+            - dev_net
+        environment:
+            - ALLOW_ANONYMOUS_LOGIN=yes
+        restart: always
+
+    kafka-broker:
+        image: bitnami/kafka:3.2.0
+        container_name: kafka-broker
+        expose:
+            - "9092"
+        environment:
+            - KAFKA_BROKER_ID=1
+            - ALLOW_PLAINTEXT_LISTENER=yes
+            - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+        volumes:
+            - kafka_data:/bitnami
+        networks:
+            - dev_net
+        restart: always
+        depends_on:
+            - zookeeper
+
+    kafka-connect-1:
+        image: qnguyen3496/kafka-connector:1.9-all-inclusive
+        container_name: kafka-connect-1
+        environment:
+            - GROUP_ID=1
+            - CONFIG_STORAGE_TOPIC=lectron-kafka-connect-config-1
+            - OFFSET_STORAGE_TOPIC=lectron-kafka-connect-offset-1
+            - STATUS_STORAGE_TOPIC=lectron-kafka-connect-status-1
+            - BOOTSTRAP_SERVERS=kafka-broker:9092
+            - KEY_CONVERTER=io.confluent.connect.avro.AvroConverter
+            - VALUE_CONVERTER=io.confluent.connect.avro.AvroConverter
+            - CONNECT_KEY_CONVERTER_SCHEMA_REGISTRY_URL=http://schema-registry:8081
+            - CONNECT_VALUE_CONVERTER_SCHEMA_REGISTRY_URL=http://schema-registry:8081
+            - ENABLE_DEBEZIUM_SCRIPTING=true
+        networks:
+            - dev_net
+        expose:
+            - "8083"
+        restart: always
+        depends_on:
+            - zookeeper
+            - kafka-broker
+        deploy:
+            resources:
+                limits:
+                    cpus: "1"
+                    memory: 1G
+    
+    kafka-connect-2:
+        image: qnguyen3496/kafka-connector:1.9-all-inclusive
+        container_name: kafka-connect-2
+        environment:
+            - GROUP_ID=1
+            - CONFIG_STORAGE_TOPIC=lectron-kafka-connect-config-1
+            - OFFSET_STORAGE_TOPIC=lectron-kafka-connect-offset-1
+            - STATUS_STORAGE_TOPIC=lectron-kafka-connect-status-1
+            - BOOTSTRAP_SERVERS=kafka-broker:9092
+            - KEY_CONVERTER=io.confluent.connect.avro.AvroConverter
+            - VALUE_CONVERTER=io.confluent.connect.avro.AvroConverter
+            - CONNECT_KEY_CONVERTER_SCHEMA_REGISTRY_URL=http://schema-registry:8081
+            - CONNECT_VALUE_CONVERTER_SCHEMA_REGISTRY_URL=http://schema-registry:8081
+            - ENABLE_DEBEZIUM_SCRIPTING=true
+        networks:
+            - dev_net
+        expose:
+            - "8083"
+        restart: always
+        depends_on:
+            - zookeeper
+            - kafka-broker
+        deploy:
+            resources:
+                limits:
+                    cpus: "1"
+                    memory: 1G
+
+    schema-registry:
+        image: confluentinc/cp-schema-registry:7.2.1
+        container_name: schema-registry
+        environment:
+            - SCHEMA_REGISTRY_HOST_NAME=schema-registry
+            - SCHEMA_REGISTRY_KAFKASTORE_CONNECTION_URL=zookeeper:2181
+            - SCHEMA_REGISTRY_KAFKASTORE_BOOTSTRAP_SERVERS=kafka-broker:9092
+        networks:
+            - dev_net
+        expose:
+            - "8081"
+        restart: always
+        depends_on:
+            - zookeeper
+            - kafka-broker
+
+    kafka-ui:
+        image: provectuslabs/kafka-ui:master
+        container_name: kafka-ui
+        environment:
+            - KAFKA_CLUSTERS_0_NAME=local_cluster
+            - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=kafka-broker:9092
+            - KAFKA_CLUSTERS_0_ZOOKEEPER=zookeeper:2181
+            - KAFKA_CLUSTERS_0_SCHEMAREGISTRY=http://schema-registry:8081
+            - KAFKA_CLUSTERS_0_KAFKACONNECT_0_NAME=local
+            - KAFKA_CLUSTERS_0_KAFKACONNECT_0_NAME=connect-0-1
+            - KAFKA_CLUSTERS_0_KAFKACONNECT_1_NAME=connect-0-2
+            - KAFKA_CLUSTERS_0_KAFKACONNECT_0_ADDRESS=http://kafka-connect-1:8083
+            - KAFKA_CLUSTERS_0_KAFKACONNECT_1_ADDRESS=http://kafka-connect-2:8083
+            - AUTH_TYPE=LOGIN_FORM
+            - SPRING_SECURITY_USER_NAME=admin
+            - SPRING_SECURITY_USER_PASSWORD=admin
+        ports:
+            - "8080:8080"
+        networks:
+            - dev_net
+        depends_on:
+            - kafka-broker
+
+volumes:
+    zookeeper_data:
+    kafka_data:
+
+networks:
+    dev_net:
+        external: true
+        name: dev_net

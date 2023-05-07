@@ -1,0 +1,499 @@
+﻿STT,LINH_VUC,CAP_1,CAP_2,CAP_3,CAP_4,CAP_5,MAP_ITEM,LINH_VUC_ORDER,CAP_1_ORDER,UPDATE_DATETIME,TREE_ID,LINH_VUC_ID,NODE1_ID,NODE2_ID,NODE3_ID,NODE4_ID,NODE5_ID,LINHVUC_SUM,CAP1_SUM,CAP2_SUM,LINHVUC_SUM_ID,CAP1_SUM_ID,CAP2_SUM_ID,GOIDK_ID
+517,Vien thong,Data,Data IP,ONPLUS_DATA,,,ONPLUS_DATA,1,,15-06-21 8:21,562,0.15,10019,20056,30637,,,Vien thong,Vien thong,Data,566,571,577,
+522,Vien thong,Data,Data IP,Data IP Mobimeeting,,,DATAIPMOBIMEETING,1,,17-06-21 13:48,567,0.15,10019,20056,30642,,,Vien thong,Vien thong,Data,566,571,577,
+523,Vien thong,Data,Khac,TRAVELLINK,,,TRAVELLINK,1,,17-06-21 15:39,568,0.15,10019,20094,30643,,,Vien thong,Vien thong,Data,566,571,577,
+524,Vien thong,Data,Khac,Vaccine COVID-19,,,VACCINECOVID-19,1,,17-06-21 15:50,569,0.15,10019,20094,30644,,,Vien thong,Vien thong,Data,566,571,577,
+273,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Clip giai tri,,,CLIPGIAITRI,3,,,418,0.11,10025,20103,30186,30186,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+274,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Ngoi sao,,,NGOISAO,3,,,419,0.11,10025,20103,30343,30343,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+275,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",ClipBox,,,CLIPBOX,3,,,420,0.11,10025,20103,30189,30189,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+276,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mplay,,,MPLAY,3,,,421,0.11,10025,20103,30512,30512,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+277,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Xemlien.vn,,,XEMLIEN.VN,3,,,422,0.11,10025,20103,30454,30454,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+278,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Van Hoa Phuong Dong,,,VANHOAPHUONGDONG,3,,,423,0.11,10025,20103,30434,30434,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+279,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Smovies,,,SMOVIES,3,,,424,0.11,10025,20103,30378,30378,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+280,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",ClipZone,,,CLIPZONE,3,,,425,0.11,10025,20103,30190,30190,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+281,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",2Funny,,,2FUNNY,3,,,426,0.11,10025,20103,30126,30126,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+282,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",amobi,,,AMOBI,3,,,427,0.11,10025,20103,30468,30468,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+284,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Trang phim hay,,,TRANGPHIMHAY,3,,,429,0.11,10025,20103,30410,30410,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+285,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",YourTV,,,YOURTV,3,,,430,0.11,10025,20103,30464,30464,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+287,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",myphim,,,MYPHIM,3,,,432,0.11,10025,20103,30515,30515,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+288,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Nghe hay,,,NGHEHAY,3,,,433,0.11,10025,20103,30341,30341,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+290,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Hay Dua,,,HAYDUA,3,,,435,0.11,10025,20103,30275,30275,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+291,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",8 giai tri,,,8GIAITRI,3,,,436,0.11,10025,20103,30134,30134,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+292,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",SMedia,,,SMEDIA,3,,,437,0.11,10025,20103,30374,30374,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+294,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Evideo,,,EVIDEO,3,,,439,0.11,10025,20103,30233,30233,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+295,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",AN ngon,,,ANNGON,3,,,440,0.11,10025,20103,30144,30144,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+297,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",1Play,,,1PLAY,3,,,442,0.11,10025,20103,30125,30125,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+298,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Zing,,,ZING,3,,,443,0.11,10025,20103,30466,30466,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+494,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,UT_988_FEE,Phi ung,,UT_988_FEE,1,,05-03-21 7:58,539,0.15,10028,20073,30619,40570,,Vien thong,Vien thong,GTGT,566,571,578,11
+495,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,UT_988,Tien ung,,UT_988,1,,05-03-21 8:08,540,0.15,10028,20073,30620,40571,,Vien thong,Vien thong,Khac,566,571,581,11
+500,Vien thong,Data,Data IP,ClipTV_DATAIP_CT3,,,ClipTV_DATAIP_CT3,1,,07-05-21 10:21,545,0.15,10019,20056,30625,,,Vien thong,Vien thong,Data,566,571,577,3
+501,Vien thong,Data,Data IP,CLIPTV_DATAIP_CT4,,,CLIPTV_DATAIP_CT4,1,,07-05-21 10:21,546,0.15,10019,20056,30626,,,Vien thong,Vien thong,Data,566,571,577,3
+502,Vien thong,Data,Data IP,MF5IP,,,MF5IP,1,,07-05-21 10:21,547,0.15,10019,20056,30627,,,Vien thong,Vien thong,Data,566,571,577,3
+503,Vien thong,Data,Data IP,BL5GPLUS_CT6,,,BL5GPLUS_CT6,1,,07-05-21 11:02,548,0.15,10019,20056,30628,,,Vien thong,Vien thong,Data,566,571,577,3
+504,Vien thong,Data,Data IP,BL5GTPLUS_CT6,,,BL5GTPLUS_CT6,1,,07-05-21 11:02,549,0.15,10019,20056,30629,,,Vien thong,Vien thong,Data,566,571,577,3
+546,Vien thong,Data,Data IP,NETHUBDATA,,,NETHUBDATA,1,,09-12-21 9:39,591,0.15,10019,20134,30666,,,Vien thong,Vien thong,Data,566,571,577,
+547,Vien thong,Data,Data IP,PLATFORM_AMNHAC,,,PLATFORM_AMNHAC,1,,09-12-21 9:45,592,0.15,10019,20135,30667,,,Vien thong,Vien thong,Data,566,571,577,
+300,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Kho phim hay,,,KHOPHIMHAY,3,,,445,0.11,10025,20103,30296,30296,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+301,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Kenh1,,,KENH1,3,,,446,0.11,10025,20103,30292,30292,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+303,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",TV Play,,,TVPLAY,3,,,448,0.11,10025,20103,30389,30389,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+304,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",FPT Play,,,FPTPLAY,3,,,449,0.11,10025,20103,30235,30235,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+306,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",SCTV The thao,,,SCTVTHETHAO,3,,,451,0.11,10025,20103,30366,30366,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+307,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Disney,,,DISNEY,3,,,452,0.11,10025,20103,30213,30213,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+308,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Mobile TV,,,MOBILETV,3,,,453,0.11,10025,20103,30332,30332,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+310,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",AloVTV,,,ALOVTV,3,,,455,0.11,10025,20103,30149,30149,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+311,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Anh so,,,ANHSO,3,,,456,0.11,10025,20103,30156,30156,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+313,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Vui cung am nhac,,,VUICUNGAMNHAC,3,,,458,0.11,10025,20103,30450,30450,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+314,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Nhac Viet,,,NHACVIET,3,,,459,0.11,10025,20103,30346,30346,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+316,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Zoota,,,ZOOTA,3,,,461,0.11,10025,20051,30467,30467,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+317,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,VoiceFun,,,VOICEFUN,3,,,462,0.11,10025,20051,30447,30447,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+319,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,mFriend,,,MFRIEND,3,,,464,0.11,10025,20051,30486,30486,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+320,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Fun Quiz,,,FUNQUIZ,3,,,465,0.11,10025,20051,30242,30242,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+12.27,Vien thong,Data,Data IP,HSV25,,,HSV25,1,,15-12-19 18:12,103,0.15,10019,20056,30270,30270,,Vien thong,Vien thong,Data,566,571,577,3
+12.34,Vien thong,Data,Data IP,DIP79,,,DIP79,1,,15-12-19 18:12,106,0.15,10019,20056,30197,30197,,Vien thong,Vien thong,Data,566,571,577,3
+12.42,Vien thong,Data,Data IP,Instagram,,,INSTAGRAM,1,,15-12-19 18:12,110,0.15,10019,20056,30287,30287,,Vien thong,Vien thong,Data,566,571,577,3
+322,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Li xi vang (Van hoa le hoi),,LIXIVANG(VANHOALEHOI),3,,,467,0.11,10025,20051,30174,40532,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+323,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Dong hanh cung TV show,,DONGHANHCUNGTVSHOW,3,,,468,0.11,10025,20051,30174,40524,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+324,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Sac mau cuoc song,,SACMAUCUOCSONG,3,,,469,0.11,10025,20051,30174,40547,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+325,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Thi truong,,THITRUONG,3,,,470,0.11,10025,20051,30174,40549,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+412,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Giu tien o lai,,,GIUTIENOLAI,3,,,61,0.11,10025,20051,30265,30265,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+410,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM Trung thuong,Hay chon gia dung,,HAYCHONGIADUNG,3,,,66,0.11,10025,20051,30173,40526,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+415,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Tro ly thong tin,,,TROLYTHONGTIN,3,,,70,0.11,10025,20051,30414,30414,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+418,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Video vicall,,,VIDEOVICALL,3,,,73,0.11,10025,20051,30443,30443,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+421,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,MobiStudy,,,MOBISTUDY,3,,,78,0.11,10025,20069,30331,30331,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+423,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Danet,,,DANET,3,,,81,0.11,10025,20103,30200,30200,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+427,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",iConnect,,,ICONNECT,3,,12-12-19 14:27,117,0.11,10025,20093,30473,30473,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+430,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Tich hop Radio,,,TICHHOPRADIO,3,,12-12-19 14:27,121,0.11,10025,20051,30404,30404,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+328,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Kham pha the gioi,,KHAMPHATHEGIOI,3,,,208,0.11,10025,20051,30174,40530,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+332,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Tin hay,,TINHAY,3,,,212,0.11,10025,20051,30174,40554,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+335,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Giai tri cung MobiFone TV,,GIAITRICUNGMOBIFONETV,3,,,215,0.11,10025,20051,30174,40525,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+339,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Myfoto,,,MYFOTO,3,,,219,0.11,10025,20051,30338,30338,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+342,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,LiveStar,,,LIVESTAR,3,,,222,0.11,10025,20051,30303,30303,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+345,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Ai giu tien hay,,,AIGIUTIENHAY,3,,,225,0.11,10025,20051,30145,30145,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+348,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Trieu phu Data,,,TRIEUPHUDATA,3,,,228,0.11,10025,20051,30413,30413,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+352,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Nap tien may man,,,NAPTIENMAYMAN,3,,,232,0.11,10025,20051,30340,30340,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+355,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Choi nhanh trung lon,,,CHOINHANHTRUNGLON,3,,,235,0.11,10025,20051,30184,30184,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+366,Da dich vu,Da dich vu khac,Da dich vu khac,Mobiscoring,,,MOBISCORING,3,,,246,0.11,10018,20054,30333,30333,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+131,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,mStudy,,,MSTUDY,3,,,335,0.11,10025,20069,30502,30502,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+133,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,mEnglish,,,MENGLISH,3,,,337,0.11,10025,20069,30484,30484,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+136,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,mlearning,,,MLEARNING,3,,,340,0.11,10025,20069,30510,30510,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+139,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,ProMe,,,PROME,3,,,343,0.11,10025,20069,30362,30362,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+142,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",mBook,,,MBOOK,3,,,346,0.11,10025,20107,30480,30480,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+145,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",Hoc lien,,,HOCLIEN,3,,,349,0.11,10025,20107,30279,30279,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+148,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",Giao dung sang tao (mTokid),,,GIAODUNGSANGTAO(MTOKID),3,,,352,0.11,10025,20107,30264,30264,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+152,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Liveinfo,,,LIVEINFO,3,,,356,0.11,10025,20093,30305,30305,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+169,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",uTeen,,,UTEEN,3,,,373,0.11,10025,20093,30516,30516,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+172,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Giam gia 24x7,,,GIAMGIA24X7,3,,,376,0.11,10025,20093,30261,30261,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+175,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Ale,,,ALE,3,,,379,0.11,10025,20093,30146,30146,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+178,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Esport Gaming,,,ESPORTGAMING,3,,,382,0.11,10025,20093,30231,30231,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+181,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",VTVShowbiz,,,VTVSHOWBIZ,3,,,385,0.11,10025,20093,30432,30432,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+184,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Vteen,,,VTEEN,3,,,388,0.11,10025,20093,30449,30449,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+187,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",CR7,,,CR7,3,,,391,0.11,10025,20093,30171,30171,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+190,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Funny Call,,,FUNNYCALL,3,,,394,0.11,10025,20093,30246,30246,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+193,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",On Plus,,,ONPLUS,3,,,397,0.11,10025,20093,30351,30351,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+196,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Van hoa viet,,,VANHOAVIET,3,,,400,0.11,10025,20093,30437,30437,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+199,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",POPS WORLDWIDE,,,POPSWORLDWIDE,3,,,403,0.11,10025,20093,30356,30356,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+203,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",The gioi than tuong,,,THEGIOITHANTUONG,3,,,407,0.11,10025,20093,30395,30395,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+206,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Bi mat Eva,,,BIMATEVA,3,,,410,0.11,10025,20093,30164,30164,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+440,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",MTRAVEL,,,MTRAVEL,3,,,485,0.11,10025,20093,30317,30317,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+283,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Onphim,,,ONPHIM,3,,,428,0.11,10025,20103,30354,30354,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+286,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",8Clip,,,8CLIP,3,,,431,0.11,10025,20103,30135,30135,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+289,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Goc Nhin Thang,,,GOCNHINTHANG,3,,,434,0.11,10025,20103,30266,30266,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+293,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Than tuong Bolero,,,THANTUONGBOLERO,3,,,438,0.11,10025,20103,30390,30390,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+296,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",ImKara,,,IMKARA,3,,,441,0.11,10025,20103,30285,30285,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+299,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Gameshow Viet,,,GAMESHOWVIET,3,,,444,0.11,10025,20103,30256,30256,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+302,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",VTV Plus,,,VTVPLUS,3,,,447,0.11,10025,20103,30431,30431,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+305,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",An ninh Xa hoi,,,ANNINHXAHOI,3,,,450,0.11,10025,20103,30154,30154,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+309,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",AloTV,,,ALOTV,3,,,454,0.11,10025,20103,30148,30148,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+312,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Gameshow,,,GAMESHOW,3,,,457,0.11,10025,20103,30255,30255,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+315,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Vitubi,,,VITUBI,3,,,460,0.11,10025,20103,30445,30445,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+318,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,mWin,,,MWIN,3,,,463,0.11,10025,20051,30506,30506,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+321,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,FunFootball,,,FUNFOOTBALL,3,,,466,0.11,10025,20051,30245,30245,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+373,Truyen hinh,Dich vu  GTGT tren truyen hinh,Dich vu  GTGT tren truyen hinh,MobiFone TV,,,MOBIFONETV,4,,,253,0.14,10020,20058,30330,30330,,Vien thong,Vien thong,GTGT,566,571,578,10
+443,Vien thong,Data,Data IP,TIKTOK90,,,TIKTOK90,1,,29-03-20 15:50,488,0.15,10019,20056,30388,30388,,Vien thong,Vien thong,Data,566,571,577,3
+444,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,140X,,,140X,3,,29-03-20 15:56,489,0.11,10025,20051,30123,30123,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+40,Vien thong,Dich vu cong them,Dich vu hien thi so chu goi,,,,DICHVUHIENTHISOCHUGOI,1,,,158,0.15,10024,20067,20067,20067,,Vien thong,Vien thong,GTGT,566,571,578,6
+47,Vien thong,Dich vu cong them,Dich vu cong them khac,MCA,,,MCA,1,,,165,0.15,10024,20064,30315,30315,,Vien thong,Vien thong,GTGT,566,571,578,6
+52,Vien thong,Dich vu cong them,Dich vu cong them khac,Magic Call,,,MAGICCALL,1,,,170,0.15,10024,20064,30318,30318,,Vien thong,Vien thong,GTGT,566,571,578,6
+69,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Li xi,,,LIXI,1,,,186,0.15,10028,20073,30300,30300,,Vien thong,Vien thong,GTGT,566,571,578,11
+76,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Ung tien tren cong nghe Bigdata,,,UNGTIENTRENCONGNGHEBIGDATA,1,,,192,0.15,10028,20073,30422,30422,,Vien thong,Vien thong,Khac,566,571,581,11
+12.3,Vien thong,Data,Data IP,Video Data Music,,,VIDEODATAMUSIC,1,,15-12-19 18:12,474,0.15,10019,20056,30442,30442,,Vien thong,Vien thong,Data,566,571,577,3
+12.9,Vien thong,Data,Data IP,Data truyen hinh,,,DATATRUYENHINH,1,,15-12-19 18:12,87,0.15,10019,20056,30205,30205,,Vien thong,Vien thong,Data,566,571,577,3
+12.15,Vien thong,Data,Data IP,Data TV,,,DATATV,1,,15-12-19 18:12,92,0.15,10019,20056,30202,30202,,Vien thong,Vien thong,Data,566,571,577,3
+12.21,Vien thong,Data,Data IP,Fshare data,,,FSHAREDATA,1,,15-12-19 18:12,97,0.15,10019,20056,30241,30241,,Vien thong,Vien thong,Data,566,571,577,3
+12.26,Vien thong,Data,Data IP,TIKA,,,TIKA,1,,15-12-19 18:12,102,0.15,10019,20056,30387,30387,,Vien thong,Vien thong,Data,566,571,577,3
+12.54,Vien thong,Data,Data IP,Spotify Data,,,SPOTIFYDATA,1,,15-12-19 18:12,479,0.15,10019,20056,30383,30383,,Vien thong,Vien thong,Data,566,571,577,3
+12.48,Vien thong,Data,Data IP,VTV Data,,,VTVDATA,1,,15-12-19 18:12,114,0.15,10019,20056,30429,30429,,Vien thong,Vien thong,Data,566,571,577,3
+18,Vien thong,Dich vu GTGT,Dich vu thu thoai,,,,DICHVUTHUTHOAI,1,,,136,0.15,10022,20071,20071,20071,,Vien thong,Vien thong,GTGT,566,571,578,5
+24,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Facebook USSD,,,FACEBOOKUSSD,1,,,142,0.15,10022,20059,30236,30236,,Vien thong,Vien thong,GTGT,566,571,578,5
+32,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Pay for me,,,PAYFORME,1,,,150,0.15,10022,20059,30357,30357,,Vien thong,Vien thong,GTGT,566,571,578,5
+39,Vien thong,Dich vu GTGT,Dich vu GTGT khac,DT GTGT noi dung khac,,,DTGTGTNOIDUNGKHAC,1,,,157,0.15,10022,20059,30198,30198,,Vien thong,Vien thong,GTGT,566,571,578,5
+48,Vien thong,Dich vu cong them,Dich vu cong them khac,Buzz MCA,,,BUZZMCA,1,,,166,0.15,10024,20064,30169,30169,,Vien thong,Vien thong,GTGT,566,571,578,6
+56,Vien thong,Dich vu cong them,Dich vu cong them khac,eStatus,,,ESTATUS,1,,,174,0.15,10024,20064,30469,30469,,Vien thong,Vien thong,GTGT,566,571,578,6
+73,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Easy Credit,,,EASYCREDIT,1,,,190,0.15,10028,20073,30228,30228,,Vien thong,Vien thong,GTGT,566,571,578,11
+3,Vien thong,Simcard,SIMCARD,,,,SIMCARD,1,,,124,0.15,10046,10046,10046,10046,,Vien thong,Vien thong,Khac,566,571,581,11
+13,Vien thong,Roaming outbound,Thoai,Thoai roaming,,,THOAIROUT,1,,,132,0.15,10044,20127,30402,30402,,Vien thong,Vien thong,RMQT outbound,566,571,582,4
+62,Vien thong,Ban the,Doanh thu ban EZ,,,,DOANHTHUBANEZ,1,,,179,0.15,10016,20074,20074,20074,,Vien thong,Vien thong,Khac,566,571,581,11
+65,Vien thong,Goi cuoc tra truoc,,Softsim,,,SOFTSIM-GOITRATRUOC,1,,,182,0.15,10038,10038,30381,30381,,Vien thong,Vien thong,Khac,566,571,581,11
+68,Vien thong,Goi cuoc tra truoc,,Goi cuoc kenh chuoi,,,GOICUOCKENHCHUOI,1,,,185,0.15,10038,10038,30267,30267,,Vien thong,Vien thong,Khac,566,571,581,11
+101,Vien thong,Dich vu truyen dan,Quoc te,,,,QUOCTE-TRUYENDAN,1,,,305,0.15,10027,20104,20104,20104,,Vien thong,Vien thong,Khac,566,571,581,11
+428,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,AI-TTS,,,DICHVUAICUATTCNTT,2,,12-12-19 14:27,118,0.1,10036,20091,30143,30143,,CNTT,CNTT,CNTT,564,568,573,8
+225,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Bi mat Chom sao,,,BIMATCHOMSAO,3,,,16,0.11,10025,20093,30163,30163,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+228,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Van Su Cat tuong,,,VANSUCATTUONG,3,,,19,0.11,10025,20093,30435,30435,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+232,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Chiem tinh,,,CHIEMTINH,3,,,23,0.11,10025,20093,30179,30179,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+235,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",VOV ban do giao thong,,,VOVBANDOGIAOTHONG,3,,,26,0.11,10025,20093,30425,30425,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+238,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Halo Viet Nam (mPlace),,,HALOVIETNAM(MPLACE),3,,,29,0.11,10025,20093,30273,30273,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+242,Da dich vu,Dich vu noi dung so,Cac loai tro choi dien tu,Gamezone,,,GAMEZONE,3,,,33,0.11,10025,20052,30257,30257,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+244,Da dich vu,Dich vu noi dung so,Cac loai tro choi dien tu,Esport Game,,,ESPORTGAME,3,,,35,0.11,10025,20052,30230,30230,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+247,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Suc khoe 1,,,SUCKHOE1,3,,,38,0.11,10025,20118,30384,30384,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+250,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",mBaby,,,MBABY,3,,,41,0.11,10025,20118,30477,30477,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+253,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",mshield,,,MSHIELD,3,,,44,0.11,10025,20118,30513,30513,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+497,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,THOSANTIENTHUONG,,,THOSANTIENTHUONG,3,,19-03-21 17:56,542,0.11,10025,20051,30622,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+496,Vien thong,Data,Khac,DATASPONSOR,,,DATASPONSOR,1,,19-03-21 17:44,541,0.15,10019,20094,30621,,,Vien thong,Vien thong,Data,566,571,577,3
+498,Vien thong,Data,Data IP,CFV119,,,CFV119,1,,19-03-21 18:03,543,0.15,10019,20056,30623,,,Vien thong,Vien thong,Data,566,571,577,3
+499,Vien thong,Data,Data IP,CFV99,,,CFV99,1,,19-03-21 18:03,544,0.15,10019,20056,30624,,,Vien thong,Vien thong,Data,566,571,577,3
+505,Vien thong,Data,Data IP,Mobicare,,,Mobicare,1,,07-05-21 14:14,550,0.15,10019,20056,30630,,,Vien thong,Vien thong,Data,566,571,577,3
+506,Vien thong,Data,Data IP,DataIP_Galaxy_CT2,,,DataIP_Galaxy_CT2,1,,07-05-21 14:52,551,0.15,10019,20056,30631,,,Vien thong,Vien thong,Data,566,571,577,3
+507,Vien thong,Data,Data IP,DataIP_Galaxy_CT2,,,DataIP_Galaxy_CT2,1,,07-05-21 15:23,552,0.15,10019,20056,30631,,,Vien thong,Vien thong,Data,566,571,577,3
+508,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,UT_988,Tien ung,,UT_988,1,,07-05-21 15:23,553,0.15,10028,20073,30620,40571,,Vien thong,Vien thong,Khac,566,571,581,11
+511,Vien thong,Simcard,BILLING-ESIM,,,,BILLING-ESIM,1,,07-05-21 15:23,556,0.15,10046,20122,,,,Vien thong,Vien thong,Khac,566,571,581,11
+513,Vien thong,Data,Data IP,Family_CLIPTV,,,Family_CLIPTV,1,,07-06-21 15:17,558,0.15,10019,20056,30633,,,Vien thong,Vien thong,Data,566,571,577,
+260,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mMusic,,,MMUSIC,3,,,51,0.11,10025,20103,30494,30494,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+263,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mFun,,,MFUN,3,,,54,0.11,10025,20103,30487,30487,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+267,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mCine,,,MCINE,3,,,58,0.11,10025,20103,30482,30482,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+445,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,MINIBUNDLE(TIENPHI),Phi ung,,MINIBUNDLE(TIENPHI),1,,02-04-20 9:57,490,0.15,10028,20073,30517,30517,,Vien thong,Vien thong,GTGT,566,571,578,11
+446,Vien thong,Data,Data IP,COCCOC,,,COCCOC,1,,04-04-20 18:08,491,0.15,10019,20056,30518,30518,,Vien thong,Vien thong,Data,566,571,577,3
+447,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,GAMELORD,,,GAMELORD,3,,07-04-20 14:39,492,0.11,10025,20051,30519,30519,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+448,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,8FRIEND,,,8FRIEND,3,,07-04-20 17:06,493,0.11,10025,20051,30520,30520,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+449,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,IWING,,,IWING,3,,07-04-20 17:06,494,0.11,10025,20051,30521,30521,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+450,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",EDUMOBI,,,EDUMOBI,3,,08-04-20 9:02,495,0.11,10025,20093,30522,30522,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+451,Vien thong,Vien thong khac,Doanh thu dich vu vien thong khac,MINIBUNDLE(TIENUNG),Tien ung,,MINIBUNDLE(TIENUNG),1,,08-04-20 14:52,496,0.15,10050,20086,30523,40553,,Vien thong,Vien thong,Khac,566,571,581,7
+452,Vien thong,Data,Data IP,VTCNOW,,,VTCNOW,1,,09-04-20 15:49,497,0.15,10019,20056,30524,30524,,Vien thong,Vien thong,Data,566,571,577,3
+453,Vien thong,Data,Data IP,NHACCUATUI_DATAIP,,,NHACCUATUI_DATAIP,1,,22-04-20 10:50,498,0.15,10019,20056,30525,30525,,Vien thong,Vien thong,Data,566,571,577,3
+454,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,MSHARE,,,MSHARE,3,,22-04-20 11:01,499,0.11,10025,20051,30526,30526,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+455,Vien thong,Data,Data IP,NTU(DHNHATRANG),,,NTU(DHNHATRANG),1,,27-04-20 15:43,500,0.15,10019,20056,30527,30527,,Vien thong,Vien thong,Data,566,571,577,3
+456,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,MECUNG,,MECUNG,3,,20-05-20 11:44,501,0.11,10025,20051,30174,40562,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+457,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,TROTHANHTRIEUPHU,,TROTHANHTRIEUPHU,3,,20-05-20 11:45,502,0.11,10025,20051,30174,40563,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+458,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,NAPTHERINHQUA,,NAPTHERINHQUA,3,,20-05-20 11:45,503,0.11,10025,20051,30174,40564,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+459,Vien thong,Data,Data IP,MF4IP,,,MF4IP,1,,22-05-20 9:55,504,0.15,10019,20056,30528,30528,,Vien thong,Vien thong,Data,566,571,577,3
+460,Vien thong,Data,Data IP,THAGA7,,,THAGA7,1,,28-05-20 17:59,505,0.15,10019,20056,30529,30529,,Vien thong,Vien thong,Data,566,571,577,3
+461,Vien thong,Data,Data IP,NIMOTV,,,NIMOTV,1,,29-05-20 16:41,506,0.15,10019,20056,30530,30530,,Vien thong,Vien thong,Data,566,571,577,3
+462,Vien thong,Data,Data IP,VIEONDATA,,,VIEONDATA,1,,01-06-20 16:29,507,0.15,10019,20056,30592,30592,,Vien thong,Vien thong,Data,566,571,577,3
+463,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",CATTIENSA,,,CATTIENSA,3,,16-06-20 17:19,508,0.11,10025,20093,30531,30531,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+464,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",ONMOBI,,,ONMOBI,3,,16-06-20 17:19,509,0.11,10025,20093,30532,30532,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+465,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",KIDSLOOPVN,,,KIDSLOOPVN,3,,16-06-20 17:20,510,0.11,10025,20093,30533,30533,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+466,Vien thong,Dich vu cong them,Dich vu cong them khac,SAFEKIDS,,,SAFEKIDS,1,,16-06-20 17:22,511,0.15,10024,20064,30534,30534,,Vien thong,Vien thong,GTGT,566,571,578,6
+467,Vien thong,Data,Data IP,THAGA15,,,THAGA15,1,,24-06-20 17:54,512,0.15,10019,20056,30535,30535,,Vien thong,Vien thong,Data,566,571,577,3
+468,Vien thong,Data,Data IP,POPSDATA,,,POPSDATA,1,,30-06-20 8:10,513,0.15,10019,20056,30536,30536,,Vien thong,Vien thong,Data,566,571,577,3
+469,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,THUEBAOMAYMAN,,,THUEBAOMAYMAN,3,,20-07-20 11:55,514,0.11,10025,20051,30537,30537,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+470,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,QUATANGAMNHAC,,,QUATANGAMNHAC,3,,20-07-20 11:55,515,0.11,10025,20051,30538,30538,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+471,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,12MBIKE,,,12MBIKE,3,,20-07-20 11:55,516,0.11,10025,20051,30539,30539,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+514,Vien thong,Data,Data IP,MDT120,,,MDT120,1,,07-06-21 15:54,559,0.15,10019,20056,30634,,,Vien thong,Vien thong,Data,566,571,577,
+515,Vien thong,Data,Data IP,CLIPTV_CT9,,,MDT120,1,,07-06-21 16:53,560,0.15,10019,20056,30635,,,Vien thong,Vien thong,Data,566,571,577,
+534,Vien thong,Data,Data IP,MBACSY_COMBO,,,MBACSY_COMBO,1,,11-08-21 15:29,579,0.15,10019,20094,30654,,,Vien thong,Vien thong,Data,566,571,577,
+535,Vien thong,Data,Data IP,GAMOTAGAMEDATA,,,GAMOTAGAMEDATA,1,,29-08-21 9:50,580,0.15,10019,20056,30655,,,Vien thong,Vien thong,Data,566,571,577,
+549,Vien thong,Data,Data IP,GOI_CF90,,,GOI_CF90,1,,21-03-22 8:52,594,0.15,10019,20136,30669,,,Vien thong,Vien thong,Data,566,571,577,
+472,Vien thong,Data,Data IP,COCCOCDATA,,,COCCOCDATA,1,,21-07-20 18:53,517,0.15,10019,20056,30540,30540,,Vien thong,Vien thong,Data,566,571,577,3
+473,Vien thong,Data,Data IP,ONMOBI_DATAIP,,,ONMOBI_DATAIP,1,,21-07-20 19:52,518,0.15,10019,20056,30541,30541,,Vien thong,Vien thong,Data,566,571,577,3
+474,Vien thong,Data,Data IP,Khac,,,KHAC,1,,06-08-20 6:44,519,0.15,10019,20056,30591,30591,,Vien thong,Vien thong,Data,566,571,577,3
+475,Vien thong,Data,Data IP,FV119,,,FV119,1,,17-08-20 17:45,520,0.15,10019,20056,30593,30593,,Vien thong,Vien thong,Data,566,571,577,3
+476,Vien thong,Data,Data IP,VOH_DATA,,,VOH_DATA,1,,17-08-20 17:45,521,0.15,10019,20056,30594,30594,,Vien thong,Vien thong,Data,566,571,577,3
+477,Vien thong,Data,Data IP,FV99,,,FV99,1,,17-08-20 17:45,522,0.15,10019,20056,30595,30595,,Vien thong,Vien thong,Data,566,571,577,3
+478,Vien thong,Data,Data IP,MBH6,,,MBH6,1,,24-08-20 18:37,523,0.15,10019,20056,30596,30596,,Vien thong,Vien thong,Data,566,571,577,3
+479,Vien thong,Data,Data IP,S50,,,S50,1,,24-08-20 19:17,524,0.15,10019,20056,30597,30597,,Vien thong,Vien thong,Data,566,571,577,3
+480,Vien thong,Data,Data IP,VTC247_DATAIP,,,VTC247_DATAIP,1,,14-09-20 14:32,525,0.15,10019,20056,30598,30598,,Vien thong,Vien thong,Data,566,571,577,3
+481,Vien thong,Data,Data IP,WAKA_DATAIP,,,WAKA_DATAIP,1,,15-09-20 11:21,526,0.15,10019,20056,30599,30599,,Vien thong,Vien thong,Data,566,571,577,3
+482,Vien thong,Data,Data IP,NETCO,,,NETCO,1,,21-09-20 16:56,527,0.15,10019,20056,30600,30600,,Vien thong,Vien thong,Data,566,571,577,3
+483,Vien thong,Data,Data IP,EDUMOBI_DATAIP,,,EDUMOBI_DATAIP,1,,25-09-20 16:47,528,0.15,10019,20056,30601,30601,,Vien thong,Vien thong,Data,566,571,577,3
+484,Vien thong,Data,Data IP,VIDEODATAYOCA_IP,,,VIDEODATAYOCA_IP,1,,30-09-20 10:50,529,0.15,10019,20056,30602,30602,,Vien thong,Vien thong,Data,566,571,577,3
+485,Vien thong,Simcard,BILLING-ESIM,,,,BILLING-ESIM,1,,02-10-20 17:30,530,0.15,10046,20122,20122,20122,,Vien thong,Vien thong,Khac,566,571,581,11
+486,Vien thong,Data,Data IP,VIDEODATA_DATAIP,,,VIDEODATA_DATAIP,1,,07-10-20 17:10,531,0.15,10019,20056,30603,30603,,Vien thong,Vien thong,Data,566,571,577,3
+487,Vien thong,Data,Data IP,CTKV1_DATAIP,,,CTKV1_DATAIP,1,,07-10-20 17:10,532,0.15,10019,20056,30604,30604,,Vien thong,Vien thong,Data,566,571,577,3
+488,Vien thong,Data,Data IP,IPHN_CTKV1,,,IPHN_CTKV1,1,,20-10-20 10:08,533,0.15,10019,20056,30605,30605,,Vien thong,Vien thong,Data,566,571,577,3
+489,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,MBACSY,,,MBACSY,3,,20-11-20 9:17,534,0.11,10025,20051,30606,30606,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+490,Vien thong,Data,Data IP,CLIPTV_DATAIP_CT1,,,CLIPTV_DATAIP_CT1,1,,09-12-20 11:49,535,0.15,10019,20056,30607,30607,,Vien thong,Vien thong,Data,566,571,577,3
+491,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CLIPTV,,,CLIPTV,3,,09-12-20 11:50,536,0.11,10025,20051,30608,30608,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+492,Vien thong,Data,Data IP,NCT_IPDATA,,,NCT_IPDATA,1,,09-12-20 14:04,537,0.15,10019,20056,30609,30609,,Vien thong,Vien thong,Data,566,571,577,3
+493,Vien thong,Data,Data IP,ONTV,,,ONTV,1,,01-02-21 17:19,538,0.15,10019,20056,30610,30610,,Vien thong,Vien thong,Data,566,571,577,3
+518,Vien thong,Data,Data IP,CLIPTV_CT2,,,CLIPTV_CT2,1,,15-06-21 15:38,563,0.15,10019,20056,30638,,,Vien thong,Vien thong,Data,566,571,577,
+519,Vien thong,Data,Data IP,Livegame Data,,,LIVEGAMEDATA,1,,15-06-21 15:44,564,0.15,10019,20056,30639,,,Vien thong,Vien thong,Data,566,571,577,
+533,Vien thong,Data,Data IP,VIETJACKDATA,,,VIETJACKDATA,1,,02-08-21 14:52,578,0.15,10019,20056,30653,,,Vien thong,Vien thong,Data,566,571,577,
+541,Vien thong,Data,Data IP,GOICF120,,,GOICF120,1,,14-10-21 14:09,586,0.15,10019,20131,30661,,,Vien thong,Vien thong,Data,566,571,577,
+540,Vien thong,Data,Data IP,GOICF150,,,GOICF150,1,,14-10-21 10:47,585,0.15,10019,20130,30660,,,Vien thong,Vien thong,Data,566,571,577,
+542,Vien thong,Data,Data IP,GOIADDONCF50S_CF100S,,,GOIADDONCF50S_CF100S,1,,14-10-21 14:25,587,0.15,10019,20132,30662,,,Vien thong,Vien thong,Data,566,571,577,
+530,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,KIENTHUCVANG,,,KIENTHUCVANG,3,,23-07-21 9:57,575,0.11,10025,20051,30650,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+531,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,ELOFUN,,,ELOFUN,3,,23-07-21 10:06,576,0.11,10025,20051,30651,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+538,Vien thong,Data,Data IP,SCTVDATA,,,SCTVDATA,1,,24-09-21 0:00,583,0.15,10019,20056,30658,,,Vien thong,Vien thong,Data,566,571,577,
+544,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,MOBICAREPLUS,,,MOBICAREPLUS,3,,09-11-21 16:11,589,0.11,10025,20051,30664,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+516,Vien thong,Data,Data IP,TRUM_SCTV,,,TRUM_SCTV,1,,09-06-21 16:43,561,0.15,10019,20056,30636,,,Vien thong,Vien thong,Data,566,571,577,
+529,Vien thong,Data,Data IP,GOICS119,,,GOICS119,1,,22-07-21 10:29,574,0.15,10019,20056,30649,,,Vien thong,Vien thong,Data,566,571,577,
+528,Vien thong,Data,Data IP,GOICS60,,,GOICS60,1,,22-07-21 10:28,573,0.15,10019,20056,30648,,,Vien thong,Vien thong,Data,566,571,577,
+537,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,SIEUTRITUE,,,SIEUTRITUE,3,,15-09-21 17:39,582,0.11,10025,20051,30657,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+545,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,MOBIAGRI,,,MOBIAGRI,3,,19-11-21 16:30,590,0.11,10025,20051,30665,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+520,Vien thong,Data,Data IP,ClipTV_CT5,,,CLIPTV_CT5,1,,16-06-21 7:15,565,0.15,10019,20056,30640,,,Vien thong,Vien thong,Data,566,571,577,
+521,Vien thong,Data,Data IP,MDT_KHDN,,,MDT_KHDN,1,,16-06-21 7:26,566,0.15,10019,20056,30641,,,Vien thong,Vien thong,Data,566,571,577,
+526,Vien thong,Data,Data IP,MOBIEDU_CTKV,,,MOBIEDU_CTKV,1,,12-07-21 9:31,571,0.15,10019,20056,30646,,,Vien thong,Vien thong,Data,566,571,577,
+527,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,VOICEBRANDNAME,,,VOICEBRANDNAME,3,,12-07-21 9:35,572,0.11,10025,20051,30647,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+539,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,FREECALL,,,FREECALL,3,,12-10-21 9:57,584,0.11,10025,20051,30659,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+394,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai tien gui ngan hang,,,,LAITIENGUINGANHANG,6,,,279,0.12,10033,20099,20099,20099,,,,,,,,11
+512,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,TRUYTIMKHOBAU,,,TRUYTIMKHOBAU,3,,24-05-21 10:19,557,0.11,10025,20051,30632,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+543,Vien thong,Data,Data IP,SHOPEEDATA,,,SHOPEEDATA,1,,01-11-21 10:49,588,0.15,10019,20133,30663,,,Vien thong,Vien thong,Data,566,571,577,
+548,Truyen hinh,Dich vu  GTGT tren truyen hinh,Dich vu  GTGT tren truyen hinh,TRUYENHINHON+,,,TRUYENHINHON+,4,,04-01-22 14:13,593,0.14,10020,20058,30668,,,Vien thong,Vien thong,GTGT,566,571,578,
+532,Vien thong,Data,Data IP,CLIPTV_DATAIP,,,CLIPTV_DATAIP,1,,23-07-21 17:02,577,0.15,10019,20056,30652,,,Vien thong,Vien thong,Data,566,571,577,
+536,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,GS30,,,GS30,3,,08-09-21 17:45,581,0.11,10025,20051,30656,,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,
+173,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Like1,,,LIKE1,3,,,377,0.11,10025,20093,30302,30302,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+174,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Yomi,,,YOMI,3,,,378,0.11,10025,20093,30463,30463,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+176,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Nhip dap the thao,,,NHIPDAPTHETHAO,3,,,380,0.11,10025,20093,30347,30347,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+177,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mDeal,,,MDEAL,3,,,381,0.11,10025,20093,30483,30483,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+179,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Hai4G,,,HAI4G,3,,,383,0.11,10025,20093,30272,30272,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+180,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",I-Cute,,,I-CUTE,3,,,384,0.11,10025,20093,30284,30284,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+182,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Cong thong tin gioi tre M14,,,CONGTHONGTINGIOITREM14,3,,,386,0.11,10025,20093,30193,30193,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+183,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",VSale,,,VSALE,3,,,387,0.11,10025,20093,30427,30427,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+185,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mthethao,,,MTHETHAO,3,,,389,0.11,10025,20093,30514,30514,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+186,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",HD Viet Football,,,HDVIETFOOTBALL,3,,,390,0.11,10025,20093,30269,30269,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+188,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Hot Star,,,HOTSTAR,3,,,392,0.11,10025,20093,30283,30283,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+189,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Eva-Adam,,,EVA-ADAM,3,,,393,0.11,10025,20093,30232,30232,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+191,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Ffashion,,,FFASHION,3,,,395,0.11,10025,20093,30240,30240,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+192,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Nhip yeu,,,NHIPYEU,3,,,396,0.11,10025,20093,30348,30348,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+194,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Giai tri hay,,,GIAITRIHAY,3,,,398,0.11,10025,20093,30260,30260,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+195,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",VOV the thao,,,VOVTHETHAO,3,,,399,0.11,10025,20093,30426,30426,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+197,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Sac mau phai dep,,,SACMAUPHAIDEP,3,,,401,0.11,10025,20093,30375,30375,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+198,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Cong giai tri da giac quan,,,CONGGIAITRIDAGIACQUAN,3,,,402,0.11,10025,20093,30191,30191,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+200,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",iPortal (Vietkid),,,IPORTAL(VIETKID),3,,,404,0.11,10025,20093,30476,30476,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+201,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Showbiz360,,,SHOWBIZ360,3,,,405,0.11,10025,20093,30377,30377,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+202,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",The thao so,,,THETHAOSO,3,,,406,0.11,10025,20093,30398,30398,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+204,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",90 phut,,,90PHUT,3,,,408,0.11,10025,20093,30139,30139,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+205,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Dep 18,,,DEP18,3,,,409,0.11,10025,20093,30210,30210,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+207,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",4Teen,,,4TEEN,3,,,411,0.11,10025,20093,30130,30130,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+208,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",The gioi tre Adameva,,,THEGIOITREADAMEVA,3,,,412,0.11,10025,20093,30396,30396,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+441,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",PHUCANGIA,,,PHUCANGIA,3,,,486,0.11,10025,20118,30355,30355,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+209,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",The gioi nguoi dep,,,THEGIOINGUOIDEP,3,,,413,0.11,10025,20093,30393,30393,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+210,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so Phat Loc,,,XOSOPHATLOC,3,,,414,0.11,10025,20093,30458,30458,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+270,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Nhac Cua Tui,,,NHACCUATUI,3,,,415,0.11,10025,20103,30345,30345,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+271,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Ket noi am nhac,,,KETNOIAMNHAC,3,,,416,0.11,10025,20103,30294,30294,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+272,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Clip hai cung nhau Cuoi,,,CLIPHAICUNGNHAUCUOI,3,,,417,0.11,10025,20103,30187,30187,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+353,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Thinh mobile,,,THINHMOBILE,3,,,233,0.11,10025,20051,30399,30399,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+354,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Troll Quiz,,,TROLLQUIZ,3,,,234,0.11,10025,20051,30415,30415,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+356,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Trend Micro,,,TRENDMICRO,3,,,236,0.11,10025,20051,30412,30412,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+357,Da dich vu,Cong dich vu noi dung so,Qua the tra truoc,Tro choi dien tu tren mang,,,GACHGAME,3,,,237,0.11,10026,20110,30251,30251,,Da dich vu,Cong dich vu noi dung so,Cong TT khac,565,569,575,9
+358,Da dich vu,Cong dich vu noi dung so,Qua tai khoan vien thong,Cong thanh toan 9029,,,CONGTHANHTOAN9029,3,,,238,0.11,10026,20109,30192,30192,,Da dich vu,Cong dich vu noi dung so,Cong 9029,565,569,574,9
+359,Da dich vu,Cong dich vu noi dung so,Qua tai khoan vien thong,mPay,,,MPAY,3,,,239,0.11,10026,20109,30495,30495,,Da dich vu,Cong dich vu noi dung so,Cong TT khac,565,569,575,9
+360,Da dich vu,Cong dich vu noi dung so,Qua tai khoan vien thong,Thanh toan qua tai khoan di dong Google Play,,,THANHTOANQUATAIKHOANDIDONGGOOGLEPLAY,3,,,240,0.11,10026,20109,30391,30391,,Da dich vu,Cong dich vu noi dung so,Google,565,569,579,9
+361,Da dich vu,Cong dich vu noi dung so,Qua tai khoan vien thong,K+,,,K+,3,,,241,0.11,10026,20109,30290,30290,,Da dich vu,Cong dich vu noi dung so,K+,565,569,580,9
+362,Da dich vu,Cong dich vu noi dung so,Qua tai khoan vien thong,iParking,,,IPARKING,3,,,242,0.11,10026,20109,30475,30475,,Da dich vu,Cong dich vu noi dung so,Cong TT khac,565,569,575,9
+363,Da dich vu,Dich vu thanh toan di dong,Trung gian thanh toan khac,,,,TRUNGGIANTHANHTOANKHAC,3,,,243,0.11,10590,20120,20120,20120,,,,,,,,9
+364,Da dich vu,Da dich vu khac,"San pham, dich vu tich hop",Dong ho thong minh Tiokid-goi Tiokid,,,DONGHOTHONGMINHTIOKID-GOITIOKID,3,,,244,0.11,10018,20108,30224,30224,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+365,Da dich vu,Da dich vu khac,"San pham, dich vu tich hop",Giam sat hanh trinh MobiTrack-goi giai phap,,,GIAMSATHANHTRINHMOBITRACK-GOIGIAIPHAP,3,,,245,0.11,10018,20108,30263,30263,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+367,Da dich vu,Da dich vu khac,Da dich vu khac,,,,DADICHVUKHAC,3,,,247,0.11,10018,20054,20054,20054,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+368,Da dich vu,Phan phoi thiet bi da dich vu,,Dong ho thong minh Tiokid,,,DONGHOTHONGMINHTIOKID,3,,,248,0.11,10042,10042,30223,30223,,,,,,,,9
+369,Da dich vu,Phan phoi thiet bi da dich vu,,Giam sat hanh trinh MobiTrack,,,GIAMSATHANHTRINHMOBITRACK,3,,,249,0.11,10042,10042,30262,30262,,,,,,,,9
+435,Vien thong,Data,Data IP,XoneFM Data,,,XONEFMDATA,1,,,480,0.15,10019,20056,30462,30462,,Vien thong,Vien thong,Data,566,571,577,3
+436,Vien thong,Data,Data IP,LiveTV Data,,,LIVETVDATA,1,,,481,0.15,10019,20056,30304,30304,,Vien thong,Vien thong,Data,566,571,577,3
+370,Truyen hinh,Doanh thu ban thiet bi truyen hinh,Dau thu (AVG),Dau thu VTCI,,,DAUTHUVTCI,4,,,250,0.14,10030,20057,30206,30206,,,,,,,,10
+371,Truyen hinh,Doanh thu ban thiet bi truyen hinh,Dau thu (AVG),Dau thu khac,,,DAUTHUKHAC,4,,,251,0.14,10030,20057,30207,30207,,,,,,,,10
+372,Truyen hinh,Doanh thu ban thiet bi truyen hinh,The cao,,,,THECAO,4,,,252,0.14,10030,20111,20111,20111,,,,,,,,10
+374,Truyen hinh,Doanh thu ho tro duy tri thue bao,,,,,DOANHTHUHOTRODUYTRITHUEBAO,4,,,254,0.14,10032,10032,10032,10032,,,,,,,,10
+375,Truyen hinh,Doanh thu khac,,,,,DOANHTHUKHAC-TRUYENHINH,4,,,255,0.14,10034,10034,10034,10034,,,,,,,,10
+376,Phan phoi va ban le,Doanh thu phan phoi ban le,Doanh thu ban may,Doanh thu ban may  kem goi cuoc subsidy,,,DOANHTHUBANMAYKEMGOICUOCSUBSIDY,5,,,256,0.13,10035,20079,30214,30214,,,,,,,,11
+377,Phan phoi va ban le,Doanh thu phan phoi ban le,Doanh thu ban may,Doanh thu ban may trong goi bundle,,,DOANHTHUBANMAYTRONGGOIBUNDLE,5,,,257,0.13,10035,20079,30216,30216,,,,,,,,11
+378,Phan phoi va ban le,Doanh thu phan phoi ban le,Doanh thu ban may,Doanh thu ban may khac,,,DOANHTHUBANMAYKHAC,5,,,258,0.13,10035,20079,30215,30215,,,,,,,,11
+379,Phan phoi va ban le,Doanh thu phan phoi ban le,"Doanh thu ban linh kien, phu kien",,,,"DOANHTHUBANLINHKIEN,PHUKIEN",5,,,259,0.13,10035,20077,20077,20077,,,,,,,,11
+380,Phan phoi va ban le,Doanh thu phan phoi ban le,"Doanh thu ban hang hoa, thiet bi khac",,,,"DOANHTHUBANHANGHOA,THIETBIKHAC",5,,,260,0.13,10035,20076,20076,20076,,,,,,,,11
+381,Phan phoi va ban le,Doanh thu phan phoi ban le,Doanh thu ban may trong goi cuoc hop tac kenh chuoi,,,,DOANHTHUBANMAYTRONGGOICUOCHOPTACKENHCHUOI,5,,,261,0.13,10035,20080,20080,20080,,,,,,,,11
+382,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu noi bo,"Doanh thu tu van, thiet ke noi bo",,,"DOANHTHUTUVAN,THIETKENOIBO",6,,,262,0.12,10031,20087,30221,30221,,,,,,,,11
+384,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu noi bo,"Doanh thu dich vu sua chua, do kiem noi bo",,,"DOANHTHUDICHVUSUACHUA,DOKIEMNOIBO",6,,,263,0.12,10031,20087,30219,30219,,,,,,,,11
+80,Vien thong,Cuoc ket noi,Thoai,Trong nuoc,Tu mang di dong Non SMP,,TUMANGDIDONGNONSMPVOICE,1,,,264,0.15,10017,20112,30617,40556,,Vien thong,Vien thong,Khac,566,571,581,11
+383,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu noi bo,Doanh thu dich vu mang luoi noi bo,,,DOANHTHUDICHVUMANGLUOINOIBO,6,,,265,0.12,10031,20087,30217,30217,,,,,,,,11
+75,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Ung tien 900,Tien ung,,TIENUNG_900,1,,,266,0.15,10028,20073,30421,40566,,Vien thong,Vien thong,Khac,566,571,581,11
+14,Vien thong,Roaming outbound,SMS,SMS roaming,,,SMSROUT,1,,,267,0.15,10044,20126,30373,30373,,Vien thong,Vien thong,RMQT outbound,566,571,582,4
+9,Vien thong,SMS,Trong nuoc,Noi mang,SMS noi mang,,NOIMANGSMS,1,,,268,0.15,10045,20119,30349,40545,,Vien thong,Vien thong,Thoai/SMS,566,571,583,2
+7,Vien thong,Thoai,Trong nuoc,Ngoai mang,Thoai ngoai mang,,NGOAIMANGVOICE,1,,,269,0.15,10047,20128,30342,40550,,Vien thong,Vien thong,Thoai/SMS,566,571,583,1
+385,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu noi bo,Doanh thu dich vu noi bo khac,,,DOANHTHUDICHVUNOIBOKHAC,6,,,270,0.12,10031,20087,30218,30218,,,,,,,,11
+386,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu cho thue co so ha tang,Cho thue tram BTS,,,CHOTHUETRAMBTS,6,,,271,0.12,10031,20083,30183,30183,,,,,,,,11
+387,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu cho thue co so ha tang,"Cho thue nha tram, cong be cap",,,"CHOTHUENHATRAM,CONGBECAP",6,,,272,0.12,10031,20083,30182,30182,,,,,,,,11
+388,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu cho thue co so ha tang,"Cho thue mat bang, van phong…",,,"CHOTHUEMATBANG,VANPHONG…",6,,,273,0.12,10031,20083,30181,30181,,,,,,,,11
+389,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu cho thue co so ha tang,Cho thue ha tang khac,,,CHOTHUEHATANGKHAC,6,,,274,0.12,10031,20083,30180,30180,,,,,,,,11
+390,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu phi dich vu doi tra may,,,,DOANHTHUPHIDICHVUDOITRAMAY,6,,,275,0.12,10031,20088,20088,20088,,,,,,,,11
+391,Doanh thu tai chinh va khac,Doanh thu dich vu khac,Doanh thu dich vu khac,Booking,,,BOOKING,6,,,276,0.12,10031,20085,30167,30167,,,,,,,,11
+392,Doanh thu tai chinh va khac,Doanh thu Vien thong cong ich,,,,,DOANHTHUVIENTHONGCONGICH,6,,,277,0.12,10029,10029,10029,10029,,,,,,,,11
+393,Doanh thu tai chinh va khac,Doanh thu khac,,,,,DOANHTHUKHAC-TAICHINH,6,,,278,0.12,10591,10591,10591,10591,,,,,,,,11
+395,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai chenh lech ty gia,,,,LAICHENHLECHTYGIA,6,,,280,0.12,10033,20095,20095,20095,,,,,,,,11
+396,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Thu tu chiet khau thanh toan,,,,THUTUCHIETKHAUTHANHTOAN,6,,,281,0.12,10033,20116,20116,20116,,,,,,,,11
+397,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai hoat dong dau tu - Dau tu Cong ty lien doanh lien ket,,,,LAIHOATDONGDAUTU-DAUTUCONGTYLIENDOANHLIENKET,6,,,282,0.12,10033,20096,20096,20096,,,,,,,,11
+398,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai hoat dong dau tu - Dau tu trai phieu,,,,LAIHOATDONGDAUTU-DAUTUTRAIPHIEU,6,,,283,0.12,10033,20098,20098,20098,,,,,,,,11
+399,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai hoat dong dau tu - Dau tu co phieu,,,,LAIHOATDONGDAUTU-DAUTUCOPHIEU,6,,,284,0.12,10033,20097,20097,20097,,,,,,,,11
+400,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Lai tra cham,,,,LAITRACHAM,6,,,285,0.12,10033,20100,20100,20100,,,,,,,,11
+401,Doanh thu tai chinh va khac,Doanh thu hoat dong tai chinh,Thu nhap hoat dong Tai chinh khac,,,,THUNHAPHOATDONGTAICHINHKHAC,6,,,286,0.12,10033,20114,20114,20114,,,,,,,,11
+402,Doanh thu tai chinh va khac,Thu nhap khac,Thu tu thanh ly nhuong ban Tai san,,,,THUTUTHANHLYNHUONGBANTAISAN,6,,,287,0.12,10048,20117,20117,20117,,,,,,,,11
+403,Doanh thu tai chinh va khac,Thu nhap khac,Thu cuoc da xoa no,,,,THUCUOCDAXOANO,6,,,288,0.12,10048,20113,20113,20113,,,,,,,,11
+404,Doanh thu tai chinh va khac,Thu nhap khac,"Chenh lech danh gia lai tai san, HH gop von, Dau tu dai han",,,,"CHENHLECHDANHGIALAITAISAN,HHGOPVON,DAUTUDAIHAN",6,,,289,0.12,10048,20053,20053,20053,,,,,,,,11
+405,Doanh thu tai chinh va khac,Thu nhap khac,Thu nhap khac,,,,THUNHAPKHAC,6,,,290,0.12,10048,20115,20115,20115,,,,,,,,11
+112.1,Vien thong,Vien thong khac,Doanh thu dich vu vien thong khac,Doanh thu dich vu vien thong khac,Doanh thu dich vu vien thong khac,,DICHVUVIENTHONGKHAC,1,,,291,0.15,10050,20086,30220,40523,,Vien thong,Vien thong,Khac,566,571,581,7
+159.1,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",106/108/801,,,106/108/801,3,,,292,0.11,10025,20093,30122,30122,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+89,Vien thong,Cuoc ket noi,SMS,Trong nuoc,Khac,,KHACSMS,1,,,293,0.15,10017,20106,30416,40529,,Vien thong,Vien thong,Khac,566,571,581,11
+90,Vien thong,Cuoc ket noi,SMS,Quoc te,SMS A2P,,SMSA2P,1,,,294,0.15,10017,20106,30616,40540,,Vien thong,Vien thong,Khac,566,571,581,11
+91,Vien thong,Cuoc ket noi,SMS,Quoc te,SMS Quoc te ve,,SMSQUOCTEVE,1,,,295,0.15,10017,20106,30615,40543,,Vien thong,Vien thong,Khac,566,571,581,11
+92,Vien thong,Cuoc ket noi,GTGT,,Hop thu thoai MCA ngoai mang,,HOPTHUTHOAIMCANGOAIMANG,1,,,296,0.15,10017,20090,20090,40527,,Vien thong,Vien thong,Khac,566,571,581,11
+93,Vien thong,Cuoc ket noi,GTGT,,Buzz Me ngoai mang,,BUZZMENGOAIMANG,1,,,297,0.15,10017,20090,20090,40518,,Vien thong,Vien thong,Khac,566,571,581,11
+94,Vien thong,Cuoc ket noi,GTGT,,Loi nhan thoai ngoai mang,,LOINHANTHOAINGOAIMANG,1,,,298,0.15,10017,20090,20090,40534,,Vien thong,Vien thong,Khac,566,571,581,11
+95,Vien thong,Roaming inbound,Roaming inbound,Thoai,,,RMITHOAI,1,,,299,0.15,10043,20105,30400,30400,,Vien thong,Vien thong,Khac,566,571,581,11
+96,Vien thong,Roaming inbound,Roaming inbound,SMS,,,RMISMS,1,,,300,0.15,10043,20105,30368,30368,,Vien thong,Vien thong,Khac,566,571,581,11
+97,Vien thong,Roaming inbound,Roaming inbound,Data,,,RMIDATA,1,,,301,0.15,10043,20105,30201,30201,,Vien thong,Vien thong,Khac,566,571,581,11
+98,Vien thong,Roaming inbound,Roaming inbound,Khac,,,KHACRIN,1,,,302,0.15,10043,20105,30295,30295,,Vien thong,Vien thong,Khac,566,571,581,11
+99,Vien thong,Dich vu truyen dan,Noi tinh,,,,NOITINH,1,,,303,0.15,10027,20102,20102,20102,,Vien thong,Vien thong,Khac,566,571,581,11
+100,Vien thong,Dich vu truyen dan,Lien tinh,,,,LIENTINH,1,,,304,0.15,10027,20101,20101,20101,,Vien thong,Vien thong,Khac,566,571,581,11
+102,Vien thong,Ket noi Internet,Trong nuoc,,,,TRONGNUOC,1,,,306,0.15,10040,20129,20119,20119,,Vien thong,Vien thong,Khac,566,571,581,11
+103,Vien thong,Ket noi Internet,Quoc te,,,,QUOCTE-KETNOIINTERNET,1,,,307,0.15,10040,20121,20121,20121,,Vien thong,Vien thong,Khac,566,571,581,11
+104,Vien thong,Vien thong khac,"Doanh thu cho thue may, Sim card",,,,"DOANHTHUCHOTHUEMAY,SIMCARD",1,,,308,0.15,10050,20084,20084,20084,,Vien thong,Vien thong,Khac,566,571,581,7
+105,Vien thong,Vien thong khac,Doanh thu ban doi SimCard,,,,DOANHTHUBANDOISIMCARD,1,,,309,0.15,10050,20075,20075,20075,,Vien thong,Vien thong,Khac,566,571,581,7
+106,Vien thong,Vien thong khac,"Doanh thu tu cac dich vu voi cong ty cung cap dich vu noi dung, khac","Cuoc dau noi dau so moi, phi dai so, phi dau so","Cuoc dau noi dau so moi, phi dai so",,"CUOCDAUNOIDAUSOMOI,PHIDAISO",1,,,310,0.15,10050,20089,30194,40520,,Vien thong,Vien thong,Khac,566,571,581,7
+107,Vien thong,Vien thong khac,"Doanh thu tu cac dich vu voi cong ty cung cap dich vu noi dung, khac","Cuoc dau noi dau so moi, phi dai so, phi dau so",VN POST 9207,,VNPOST9207,1,,,311,0.15,10050,20089,30194,40559,,Vien thong,Vien thong,Khac,566,571,581,7
+108,Vien thong,Vien thong khac,"Doanh thu tu cac dich vu voi cong ty cung cap dich vu noi dung, khac","Cuoc dau noi dau so moi, phi dai so, phi dau so",ITFS - thue dau so,,ITFS-THUEDAUSO,1,,,312,0.15,10050,20089,30194,40528,,Vien thong,Vien thong,Khac,566,571,581,7
+109,Vien thong,Vien thong khac,"Doanh thu tu cac dich vu voi cong ty cung cap dich vu noi dung, khac",Cuoc dich vu GTGT khac,,,CUOCDICHVUGTGTKHAC,1,,,313,0.15,10050,20089,30195,30195,,Vien thong,Vien thong,Khac,566,571,581,7
+110,Vien thong,Vien thong khac,Doanh thu dich vu vien thong khac,Mobiwifi,,,MOBIWIFI,1,,,314,0.15,10050,20086,30334,30334,,Vien thong,Vien thong,Khac,566,571,581,7
+111,Vien thong,Vien thong khac,Doanh thu dich vu vien thong khac,Ipfication,,,IPFICATION,1,,,315,0.15,10050,20086,30289,30289,,Vien thong,Vien thong,Khac,566,571,581,7
+112,Vien thong,Vien thong khac,Doanh thu dich vu vien thong khac,Doanh thu dich vu vien thong khac,Khoa mo sim sua ten hop dong,,KHOAMOSIMSUATENHOPDONG,1,,,316,0.15,10050,20086,30220,40531,,Vien thong,Vien thong,Khac,566,571,581,7
+113,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,3C (Cloud Contact Center),,,3C(CLOUDCONTACTCENTER),2,,,317,0.1,10036,20091,30128,30128,,CNTT,CNTT,CNTT,564,568,573,8
+114,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,Hoa don dien tu (mBill),,,HOADONDIENTU(MBILL),2,,,318,0.1,10036,20091,30276,30276,,CNTT,CNTT,CNTT,564,568,573,8
+115,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,Hoi nghi truyen hinh (MegaMeeting),,,HOINGHITRUYENHINH(MEGAMEETING),2,,,319,0.1,10036,20091,30281,30281,,CNTT,CNTT,CNTT,564,568,573,8
+116,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,mobiCRM,,,MOBICRM,2,,,320,0.1,10036,20091,30511,30511,,CNTT,CNTT,CNTT,564,568,573,8
+117,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,mTracker,,,MTRACKER,2,,,321,0.1,10036,20091,30504,30504,,CNTT,CNTT,CNTT,564,568,573,8
+118,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,mSale,,,MSALE,2,,,322,0.1,10036,20091,30499,30499,,CNTT,CNTT,CNTT,564,568,573,8
+119,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,Social Me,,,SOCIALME,2,,,323,0.1,10036,20091,30380,30380,,CNTT,CNTT,CNTT,564,568,573,8
+120,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,Giai phap truyen thong co so va Smart home,,,GIAIPHAPTRUYENTHONGCOSOVASMARTHOME,2,,,324,0.1,10036,20091,30259,30259,,CNTT,CNTT,CNTT,564,568,573,8
+121,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,Giai phap Giam sat truong hoc,,,GIAIPHAPGIAMSATTRUONGHOC,2,,,325,0.1,10036,20091,30258,30258,,CNTT,CNTT,CNTT,564,568,573,8
+122,Cong nghe thong tin,Giai phap CNTT,Giai phap IOT& Dich vu CNTT,IoT Quoc te,,,IOTQUOCTE,2,,,326,0.1,10036,20091,30288,30288,,CNTT,CNTT,CNTT,564,568,573,8
+123,Cong nghe thong tin,"Dich vu Tich hop, phat trien phan mem va phan phoi",,,,,"DICHVUTICHHOP,PHATTRIENPHANMEMVAPHANPHOI",2,,,327,0.1,10023,10023,10023,10023,,,,,,,,8
+124,Cong nghe thong tin,Giai phap dua tren cong nghe Bigdata,Giai phap dua tren cong nghe Bigdata,MobiFinance,,,MOBIFINANCE,2,,,328,0.1,10037,20092,30327,30327,,,,,,,,8
+125,Cong nghe thong tin,Giai phap dua tren cong nghe Bigdata,Giai phap dua tren cong nghe Bigdata,MobiCS,,,MOBICS,2,,,329,0.1,10037,20092,30325,30325,,,,,,,,8
+126,Cong nghe thong tin,Giai phap dua tren cong nghe Bigdata,Giai phap dua tren cong nghe Bigdata,Dich vu xac thuc thue bao CAC,,,DICHVUXACTHUCTHUEBAOCAC,2,,,330,0.1,10037,20092,30212,30212,,,,,,,,8
+127,Cong nghe thong tin,Giai phap dua tren cong nghe Bigdata,Giai phap dua tren cong nghe Bigdata,AI Telesale,,,AITELESALE,2,,,331,0.1,10037,20092,30142,30142,,,,,,,,8
+128,Cong nghe thong tin,Giai phap dua tren cong nghe Bigdata,Giai phap dua tren cong nghe Bigdata,San pham Bigdata khac,,,SANPHAMBIGDATAKHAC,2,,,332,0.1,10037,20092,30376,30376,,,,,,,,8
+129,Cong nghe thong tin,Dich vu CNTT khac (khong bao gom noi dung so),,,,,DICHVUCNTTKHAC(KHONGBAOGOMNOIDUNGSO),2,,,333,0.1,10021,10021,10021,10021,,,,,,,,8
+130,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,mFunkid,,,MFUNKID,3,,,334,0.11,10025,20069,30488,30488,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+132,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,2Learn,,,2LEARN,3,,,336,0.11,10025,20069,30127,30127,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+134,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,English360,,,ENGLISH360,3,,,338,0.11,10025,20069,30229,30229,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+135,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,Poki,,,POKI,3,,,339,0.11,10025,20069,30361,30361,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+137,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,Hoc cung chuyen gia (mSkill),,,HOCCUNGCHUYENGIA(MSKILL),3,,,341,0.11,10025,20069,30277,30277,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+138,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,FunClass,,,FUNCLASS,3,,,342,0.11,10025,20069,30244,30244,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+140,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,Audio Book,,,AUDIOBOOK,3,,,344,0.11,10025,20069,30157,30157,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+141,Da dich vu,Dich vu noi dung so,Dich vu so phuc vu giao duc,Hoc vui,,,HOCVUI,3,,,345,0.11,10025,20069,30280,30280,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+143,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",BibiBook,,,BIBIBOOK,3,,,347,0.11,10025,20107,30165,30165,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+144,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",Alobook,,,ALOBOOK,3,,,348,0.11,10025,20107,30150,30150,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+146,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",Hoc de,,,HOCDE,3,,,350,0.11,10025,20107,30278,30278,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+147,Da dich vu,Dich vu noi dung so,"Sach, tai lieu duoi dang so phuc vu giao duc",Doc lien,,,DOCLIEN,3,,,351,0.11,10025,20107,30222,30222,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+149,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Funring,,,FUNRING,3,,,353,0.11,10025,20093,30247,30247,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+150,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Funring sang tao,,,FUNRINGSANGTAO,3,,,354,0.11,10025,20093,30249,30249,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+151,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Funring doanh nghiep,,,FUNRINGDOANHNGHIEP,3,,,355,0.11,10025,20093,30248,30248,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+153,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",SuperSIM,,,SUPERSIM,3,,,357,0.11,10025,20093,30385,30385,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+437,Vien thong,Data,Data IP,Truyen hinh Vinh Long,,,TRUYENHINHVINHLONG,1,,,482,0.15,10019,20056,30417,30417,,Vien thong,Vien thong,Data,566,571,577,3
+438,Vien thong,Data,Data IP,MBH12,,,MBH12,1,,,483,0.15,10019,20056,30314,30314,,Vien thong,Vien thong,Data,566,571,577,3
+439,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,ZPLUS,,,ZPLUS,3,,,484,0.11,10025,20051,30465,30465,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+154,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Mobi Radio,,,MOBIRADIO,3,,,358,0.11,10025,20093,30321,30321,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+155,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",9xx,,,9XX,3,,,359,0.11,10025,20093,30140,30140,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+156,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",6xxx,,,6XXX,3,,,360,0.11,10025,20093,30131,30131,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+157,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",7xxx,,,7XXX,3,,,361,0.11,10025,20093,30132,30132,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+158,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",8xxx,,,8XXX,3,,,362,0.11,10025,20093,30138,30138,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+159,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",1900xxxx,,,1900XXXX,3,,,363,0.11,10025,20093,30124,30124,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+160,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",SDP,,,SDP,3,,,364,0.11,10025,20093,30367,30367,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+161,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Tong dai Tien ich Smartcall,,,TONGDAITIENICHSMARTCALL,3,,,365,0.11,10025,20093,30407,30407,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+162,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Tong dai tien ich 1050,,,TONGDAITIENICH1050,3,,,366,0.11,10025,20093,30409,30409,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+163,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",DV Tong dai 9080,,,DVTONGDAI9080,3,,,367,0.11,10025,20093,30199,30199,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+164,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mVoice,,,MVOICE,3,,,368,0.11,10025,20093,30505,30505,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+165,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mPlus,,,MPLUS,3,,,369,0.11,10025,20093,30496,30496,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+166,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mPlus3 (9141),,,MPLUS3(9141),3,,,370,0.11,10025,20093,30497,30497,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+167,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mSport,,,MSPORT,3,,,371,0.11,10025,20093,30500,30500,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+168,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mRadio,,,MRADIO,3,,,372,0.11,10025,20093,30498,30498,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+170,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mBongda,,,MBONGDA,3,,,374,0.11,10025,20093,30479,30479,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+171,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mWorks,,,MWORKS,3,,,375,0.11,10025,20093,30507,30507,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+211,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so Dien toan,,,XOSODIENTOAN,3,,,2,0.11,10025,20093,30457,30457,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+212,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so day,,,XOSODAY,3,,,3,0.11,10025,20093,30459,30459,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+213,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Thong tin xo so,,,THONGTINXOSO,3,,,4,0.11,10025,20093,30403,30403,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+214,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so than tai,,,XOSOTHANTAI,3,,,5,0.11,10025,20093,30461,30461,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+215,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",iLoto,,,ILOTO,3,,,6,0.11,10025,20093,30474,30474,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+216,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so 24H,,,XOSO24H,3,,,7,0.11,10025,20093,30455,30455,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+217,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mTimes,,,MTIMES,3,,,8,0.11,10025,20093,30503,30503,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+218,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",CaloFood,,,CALOFOOD,3,,,9,0.11,10025,20093,30176,30176,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+219,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Alome,,,ALOME,3,,,10,0.11,10025,20093,30151,30151,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+220,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Phong Thuy Mizu,,,PHONGTHUYMIZU,3,,,11,0.11,10025,20093,30358,30358,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+221,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Phong thuy 365,,,PHONGTHUY365,3,,,12,0.11,10025,20093,30359,30359,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+222,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Phong thuy ngu hanh,,,PHONGTHUYNGUHANH,3,,,13,0.11,10025,20093,30360,30360,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+223,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Qua hai,,,QUAHAI,3,,,14,0.11,10025,20093,30363,30363,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+224,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xo so phat tai,,,XOSOPHATTAI,3,,,15,0.11,10025,20093,30460,30460,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+226,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Van dieu hay,,,VANDIEUHAY,3,,,17,0.11,10025,20093,30436,30436,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+227,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Tu vi dong tay (lich van su),,,TUVIDONGTAY(LICHVANSU),3,,,18,0.11,10025,20093,30419,30419,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+229,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Am thuc Viet,,,AMTHUCVIET,3,,,20,0.11,10025,20093,30152,30152,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+230,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Box360,,,BOX360,3,,,21,0.11,10025,20093,30168,30168,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+231,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Xem ngay gio tot (Van su 365),,,XEMNGAYGIOTOT(VANSU365),3,,,22,0.11,10025,20093,30452,30452,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+233,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",mLady,,,MLADY,3,,,24,0.11,10025,20093,30492,30492,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+234,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",NVGATE,,,NVGATE,3,,,25,0.11,10025,20093,30339,30339,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+236,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Ky nang sinh ton,,,KYNANGSINHTON,3,,,27,0.11,10025,20093,30298,30298,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+237,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",8 Du lich,,,8DULICH,3,,,28,0.11,10025,20093,30133,30133,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+239,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Nha nong xanh,,,NHANONGXANH,3,,,30,0.11,10025,20093,30344,30344,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+240,Da dich vu,Dich vu noi dung so,"Giai tri, giao duc tren mang di dong",Ban nha nong,,,BANNHANONG,3,,,31,0.11,10025,20093,30160,30160,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+241,Da dich vu,Dich vu noi dung so,Cac loai tro choi dien tu,mgame,,,MGAME,3,,,32,0.11,10025,20052,30509,30509,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+243,Da dich vu,Dich vu noi dung so,Cac loai tro choi dien tu,Lien quan Mobile,,,LIENQUANMOBILE,3,,,34,0.11,10025,20052,30301,30301,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+245,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",mCare,,,MCARE,3,,,36,0.11,10025,20118,30481,30481,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+246,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Bac sy cua ban,,,BACSYCUABAN,3,,,37,0.11,10025,20118,30159,30159,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+248,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Cam nang y te,,,CAMNANGYTE,3,,,39,0.11,10025,20118,30177,30177,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+249,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Tiem chung be,,,TIEMCHUNGBE,3,,,40,0.11,10025,20118,30405,30405,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+251,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",mLaw,,,MLAW,3,,,42,0.11,10025,20118,30493,30493,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+252,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",An toan giao thong,,,ANTOANGIAOTHONG,3,,,43,0.11,10025,20118,30155,30155,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+254,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Bao binh an (CoverNow),,,BAOBINHAN(COVERNOW),3,,,45,0.11,10025,20118,30161,30161,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+255,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Bao hiem xe may,,,BAOHIEMXEMAY,3,,,46,0.11,10025,20118,30162,30162,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+257,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",SMS QC&CSKH,SMS QC&CSKH xuat hoa don,,SMSQC&CSKHXUATHOADON,3,,,48,0.11,10025,20103,30372,40542,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+258,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",MobiAds,,,MOBIADS,3,,,49,0.11,10025,20103,30324,30324,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+259,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",The gioi nhac,,,THEGIOINHAC,3,,,50,0.11,10025,20103,30394,30394,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+261,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",MobiClip,,,MOBICLIP,3,,,52,0.11,10025,20103,30326,30326,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+262,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mFilm,,,MFILM,3,,,53,0.11,10025,20103,30485,30485,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+264,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mKa,,,MKA,3,,,55,0.11,10025,20103,30490,30490,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+12.49,Vien thong,Data,Data IP,Mobi263_AD,,,MOBI263_AD,1,,15-12-19 18:12,115,0.15,10019,20056,30323,30323,,Vien thong,Vien thong,Data,566,571,577,3
+27,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Video Call,,,VIDEOCALL,1,,,145,0.15,10022,20059,30439,30439,,Vien thong,Vien thong,GTGT,566,571,578,5
+33,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Tong dai di dong tra truoc,,,TONGDAIDIDONGTRATRUOC,1,,,151,0.15,10022,20059,30408,30408,,Vien thong,Vien thong,GTGT,566,571,578,5
+265,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Clip360,,,CLIP360,3,,,56,0.11,10025,20103,30188,30188,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+266,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",mHDViet,,,MHDVIET,3,,,57,0.11,10025,20103,30489,30489,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+268,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Xembongda,,,XEMBONGDA,3,,,59,0.11,10025,20103,30453,30453,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+269,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",Amusic,,,AMUSIC,3,,,60,0.11,10025,20103,30153,30153,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+409,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,8Go-Dich vu dat xe,,,8GO,3,,,62,0.11,10025,20051,30136,30136,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+408,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,S-Plus,Phi ung,,SPLUS(TIENPHI),1,,,63,0.15,10028,20073,30365,40536,,Vien thong,Vien thong,GTGT,566,571,578,11
+426,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,S-Plus,Tien ung,,SPLUS(TIENUNG),1,,,64,0.15,10028,20073,30365,40567,,Vien thong,Vien thong,Khac,566,571,581,11
+424,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",Khuyen mai kep,,,KHUYENMAIKEP,3,,,65,0.11,10025,20118,30297,30297,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+416,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,US Happy,,,USHAPPY,3,,,67,0.11,10025,20051,30420,30420,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+414,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Mang xa hoi Buum,,,MANGXAHOIBUUM,3,,,68,0.11,10025,20051,30319,30319,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+419,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Xo so 997,,,XOSO997,3,,,69,0.11,10025,20051,30456,30456,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+411,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Deal Today,,,DEALTODAY,3,,,71,0.11,10025,20051,30209,30209,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+420,Da dich vu,Dich vu noi dung so,Cac loai tro choi dien tu,GAME ON,,,GAMEON,3,,,72,0.11,10025,20052,30250,30250,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+417,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,VINGUOINGHEO,,,VINGUOINGHEO,3,,,74,0.11,10025,20051,30424,30424,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+407,Vien thong,Dich vu cong them,Dich vu cong them khac,All Blocking,,,ALLBLOCKING,1,,,75,0.15,10024,20064,30147,30147,,Vien thong,Vien thong,GTGT,566,571,578,6
+406,Vien thong,Dich vu cong them,Dich vu cong them khac,AHELP (phi dich vu),,,AHELP(PHIDICHVU),1,,,76,0.15,10024,20064,30141,30141,,Vien thong,Vien thong,GTGT,566,571,578,6
+413,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Lucky Time,,,LUCKYTIME,3,,,77,0.11,10025,20051,30308,30308,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+425,Da dich vu,Dich vu noi dung so,"Thu vien so, kho du lieu so",mBacsy,,,MBACSY,3,,,79,0.11,10025,20118,30478,30478,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+422,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,VietnamToday,,,VIETNAMTODAY,3,,,80,0.11,10025,20051,30444,30444,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+434,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Vstories,,,VSTORIES,3,,12-12-19 14:27,82,0.11,10025,20051,30448,30448,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+12.1,Vien thong,Data,Data IP,Video Data Iflix,,,VIDEODATAIFLIX,1,,15-12-19 18:12,472,0.15,10019,20056,30441,30441,,Vien thong,Vien thong,Data,566,571,577,3
+12.2,Vien thong,Data,Data IP,Video Data FILM+,,,VIDEODATAFILM+,1,,15-12-19 18:12,473,0.15,10019,20056,30440,30440,,Vien thong,Vien thong,Data,566,571,577,3
+12.4,Vien thong,Data,Data IP,Moov Data,,,MOOVDATA,1,,15-12-19 18:12,475,0.15,10019,20056,30335,30335,,Vien thong,Vien thong,Data,566,571,577,3
+12.5,Vien thong,Data,Data IP,4G Tin tuc,,,4GTINTUC,1,,15-12-19 18:12,83,0.15,10019,20056,30129,30129,,Vien thong,Vien thong,Data,566,571,577,3
+12.6,Vien thong,Data,Data IP,TikTok data,,,TIKTOKDATA,1,,15-12-19 18:12,84,0.15,10019,20056,30406,30406,,Vien thong,Vien thong,Data,566,571,577,3
+12.7,Vien thong,Data,Data IP,Okara data,,,OKARADATA,1,,15-12-19 18:12,85,0.15,10019,20056,30350,30350,,Vien thong,Vien thong,Data,566,571,577,3
+12.8,Vien thong,Data,Data IP,Viber,,,VIBER,1,,15-12-19 18:12,86,0.15,10019,20056,30438,30438,,Vien thong,Vien thong,Data,566,571,577,3
+12.51,Vien thong,Data,Data IP,VIEON,,,VIEON,1,,15-12-19 18:12,476,0.15,10019,20056,30423,30423,,Vien thong,Vien thong,Data,566,571,577,3
+12.11,Vien thong,Data,Data IP,K+ data (thuoc cac goi OTT data),,,K+DATA(THUOCCACGOIOTTDATA),1,,15-12-19 18:12,88,0.15,10019,20056,30291,30291,,Vien thong,Vien thong,Data,566,571,577,3
+12.12,Vien thong,Data,Data IP,VTV Go,,,VTVGO,1,,15-12-19 18:12,89,0.15,10019,20056,30430,30430,,Vien thong,Vien thong,Data,566,571,577,3
+12.13,Vien thong,Data,Data IP,Vain Glory,,,VAINGLORY,1,,15-12-19 18:12,90,0.15,10019,20056,30433,30433,,Vien thong,Vien thong,Data,566,571,577,3
+12.14,Vien thong,Data,Data IP,Game Data,,,GAMEDATA,1,,15-12-19 18:12,91,0.15,10019,20056,30252,30252,,Vien thong,Vien thong,Data,566,571,577,3
+12.16,Vien thong,Data,Data IP,M090,,,M090,1,,15-12-19 18:12,93,0.15,10019,20056,30310,30310,,Vien thong,Vien thong,Data,566,571,577,3
+12.17,Vien thong,Data,Data IP,BL5GT,,,BL5GT,1,,15-12-19 18:12,94,0.15,10019,20056,30158,30158,,Vien thong,Vien thong,Data,566,571,577,3
+12.18,Vien thong,Data,Data IP,8NCT,,,8NCT,1,,15-12-19 18:12,95,0.15,10019,20056,30137,30137,,Vien thong,Vien thong,Data,566,571,577,3
+12.19,Vien thong,Data,Data IP,Game100 data,,,GAME100DATA,1,,15-12-19 18:12,96,0.15,10019,20056,30253,30253,,Vien thong,Vien thong,Data,566,571,577,3
+12.52,Vien thong,Data,Data IP,The thao data,,,THETHAODATA,1,,15-12-19 18:12,477,0.15,10019,20056,30397,30397,,Vien thong,Vien thong,Data,566,571,577,3
+12.22,Vien thong,Data,Data IP,Truyen hinh data,,,TRUYENHINHDATA,1,,15-12-19 18:12,98,0.15,10019,20056,30418,30418,,Vien thong,Vien thong,Data,566,571,577,3
+12.23,Vien thong,Data,Data IP,GameLoft,,,GAMELOFT,1,,15-12-19 18:12,99,0.15,10019,20056,30254,30254,,Vien thong,Vien thong,Data,566,571,577,3
+12.24,Vien thong,Data,Data IP,VTC Game Data,,,VTCGAMEDATA,1,,15-12-19 18:12,100,0.15,10019,20056,30428,30428,,Vien thong,Vien thong,Data,566,571,577,3
+12.25,Vien thong,Data,Data IP,FIKA,,,FIKA,1,,15-12-19 18:12,101,0.15,10019,20056,30234,30234,,Vien thong,Vien thong,Data,566,571,577,3
+12.28,Vien thong,Data,Data IP,HSV50,,,HSV50,1,,15-12-19 18:12,104,0.15,10019,20056,30271,30271,,Vien thong,Vien thong,Data,566,571,577,3
+12.29,Vien thong,Data,Data IP,ELSA Data,,,ELSADATA,1,,15-12-19 18:12,105,0.15,10019,20056,30226,30226,,Vien thong,Vien thong,Data,566,571,577,3
+12.53,Vien thong,Data,Data IP,DIP50,,,DIP50,1,,15-12-19 18:12,478,0.15,10019,20056,30196,30196,,Vien thong,Vien thong,Data,566,571,577,3
+12.38,Vien thong,Data,Data IP,MyTV Net Data,,,MYTVNETDATA,1,,15-12-19 18:12,107,0.15,10019,20056,30336,30336,,Vien thong,Vien thong,Data,566,571,577,3
+12.39,Vien thong,Data,Data IP,MobiFone Go,,,MOBIFONEGO,1,,15-12-19 18:12,108,0.15,10019,20056,30328,30328,,Vien thong,Vien thong,Data,566,571,577,3
+12.41,Vien thong,Data,Data IP,HBO Data,,,HBODATA,1,,15-12-19 18:12,109,0.15,10019,20056,30268,30268,,Vien thong,Vien thong,Data,566,571,577,3
+12.43,Vien thong,Data,Data IP,Mobi263,,,MOBI263,1,,15-12-19 18:12,111,0.15,10019,20056,30322,30322,,Vien thong,Vien thong,Data,566,571,577,3

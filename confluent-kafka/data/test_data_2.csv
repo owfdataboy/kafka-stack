@@ -1,0 +1,90 @@
+﻿STT,LINH_VUC,CAP_1,CAP_2,CAP_3,CAP_4,CAP_5,MAP_ITEM,LINH_VUC_ORDER,CAP_1_ORDER,UPDATE_DATETIME,TREE_ID,LINH_VUC_ID,NODE1_ID,NODE2_ID,NODE3_ID,NODE4_ID,NODE5_ID,LINHVUC_SUM,CAP1_SUM,CAP2_SUM,LINHVUC_SUM_ID,CAP1_SUM_ID,CAP2_SUM_ID,GOIDK_ID
+12.44,Vien thong,Data,Data IP,TI5G,,,TI5G,1,,15-12-19 18:12,112,0.15,10019,20056,30386,30386,,Vien thong,Vien thong,Data,566,571,577,3
+12.47,Vien thong,Data,Data IP,MAX+ Data,,,MAX+DATA,1,,15-12-19 18:12,113,0.15,10019,20056,30313,30313,,Vien thong,Vien thong,Data,566,571,577,3
+432,Da dich vu,Dich vu noi dung so,"Phim so, anh so, nhac so, quang cao so",iBolero,,,IBOLERO,3,,12-12-19 14:27,116,0.11,10025,20103,30471,30471,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+433,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CeeMe,,,CEEME,3,,12-12-19 14:27,119,0.11,10025,20051,30178,30178,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+429,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,MyTalk 4.0,,,MYTALK4,3,,12-12-19 14:27,120,0.11,10025,20051,30337,30337,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+1,Vien thong,Hoa mang,,Softsim,,,SOFTSIM-HOAMANG,1,,,122,0.15,10039,10039,30612,30612,,Vien thong,Vien thong,Khac,566,571,581,11
+2,Vien thong,Hoa mang,,Khac,,,KHAC-HOAMANG,1,,,123,0.15,10039,10039,30611,30611,,Vien thong,Vien thong,Khac,566,571,581,11
+4,Vien thong,MNP,,,,,MNP,1,,,125,0.15,10041,10041,10041,10041,,Vien thong,Vien thong,Khac,566,571,581,11
+5,Vien thong,Thue bao,,,,,THUEBAO,1,,,126,0.15,10049,10049,10049,10049,,Vien thong,Vien thong,Khac,566,571,581,11
+6,Vien thong,Thoai,Trong nuoc,Noi mang,Thoai noi mang,,NOIMANGVOICE,1,,,127,0.15,10047,20128,30614,40551,,Vien thong,Vien thong,Thoai/SMS,566,571,583,1
+8,Vien thong,Thoai,Quoc te,,Thoai quoc te,,QUOCTEVOICE,1,,,128,0.15,10047,20124,20124,40552,,Vien thong,Vien thong,Thoai/SMS,566,571,583,1
+10,Vien thong,SMS,Trong nuoc,Ngoai mang,SMS ngoai mang,,NGOAIMANGSMS,1,,,129,0.15,10045,20119,30618,40544,,Vien thong,Vien thong,Thoai/SMS,566,571,583,2
+11,Vien thong,SMS,Quoc te,,SMS quoc te,,QUOCTESMS,1,,,130,0.15,10045,20125,20125,40546,,Vien thong,Vien thong,Thoai/SMS,566,571,583,2
+12,Vien thong,Data,Khac,,Data trong nuoc,,DATA,1,,,131,0.15,10019,20094,20094,40521,,Vien thong,Vien thong,Data,566,571,577,3
+15,Vien thong,Roaming outbound,Data,Data roaming,,,DATAROUT,1,,,133,0.15,10044,20055,30204,30204,,Vien thong,Vien thong,RMQT outbound,566,571,582,4
+16,Vien thong,Roaming outbound,Khac,,,,KHACROUT,1,,,134,0.15,10044,20123,20123,20123,,Vien thong,Vien thong,RMQT outbound,566,571,582,4
+17,Vien thong,Dich vu GTGT,Dich vu thu dien tu,,,,DICHVUTHUDIENTU,1,,,135,0.15,10022,20070,20070,20070,,Vien thong,Vien thong,GTGT,566,571,578,5
+19,Vien thong,Dich vu GTGT,Dich vu fax GTGT,,,,DICHVUFAXGTGT,1,,,137,0.15,10022,20065,20065,20065,,Vien thong,Vien thong,GTGT,566,571,578,5
+20,Vien thong,Dich vu GTGT,Dich vu truy nhap Internet,,,,DICHVUTRUYNHAPINTERNET,1,,,138,0.15,10022,20072,20072,20072,,Vien thong,Vien thong,GTGT,566,571,578,5
+21,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Voice Chat,,,VOICECHAT,1,,,139,0.15,10022,20059,30446,30446,,Vien thong,Vien thong,GTGT,566,571,578,5
+22,Vien thong,Dich vu GTGT,Dich vu GTGT khac,mKids,,,MKIDS,1,,,140,0.15,10022,20059,30491,30491,,Vien thong,Vien thong,GTGT,566,571,578,5
+23,Vien thong,Dich vu GTGT,Dich vu GTGT khac,FacebookSMS,,,FACEBOOKSMS,1,,,141,0.15,10022,20059,30237,30237,,Vien thong,Vien thong,GTGT,566,571,578,5
+25,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Thoai GTGT,,,THOAIGTGTKHAC,1,,,143,0.15,10022,20059,30401,30401,,Vien thong,Vien thong,GTGT,566,571,578,5
+26,Vien thong,Dich vu GTGT,Dich vu GTGT khac,SMS GTGT,,,SMSGTGT,1,,,144,0.15,10022,20059,30370,30370,,Vien thong,Vien thong,GTGT,566,571,578,5
+28,Vien thong,Dich vu GTGT,Dich vu GTGT khac,E-oneSMS,,,E-ONESMS,1,,,146,0.15,10022,20059,30225,30225,,Vien thong,Vien thong,GTGT,566,571,578,5
+29,Vien thong,Dich vu GTGT,Dich vu GTGT khac,MMSC,,,MMSC,1,,,147,0.15,10022,20059,30316,30316,,Vien thong,Vien thong,GTGT,566,571,578,5
+30,Vien thong,Dich vu GTGT,Dich vu GTGT khac,HappyCall,,,HAPPYCALL,1,,,148,0.15,10022,20059,30274,30274,,Vien thong,Vien thong,GTGT,566,571,578,5
+31,Vien thong,Dich vu GTGT,Dich vu GTGT khac,iCall,,,ICALL,1,,,149,0.15,10022,20059,30472,30472,,Vien thong,Vien thong,GTGT,566,571,578,5
+34,Vien thong,Dich vu GTGT,Dich vu GTGT khac,OneContact,,,ONECONTACT,1,,,152,0.15,10022,20059,30352,30352,,Vien thong,Vien thong,GTGT,566,571,578,5
+35,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Mbiz360,,,MBIZ360,1,,,153,0.15,10022,20059,30320,30320,,Vien thong,Vien thong,GTGT,566,571,578,5
+36,Vien thong,Dich vu GTGT,Dich vu GTGT khac,OneKiot,,,ONEKIOT,1,,,154,0.15,10022,20059,30353,30353,,Vien thong,Vien thong,GTGT,566,571,578,5
+37,Vien thong,Dich vu GTGT,Dich vu GTGT khac,So ngoi sao,,,SONGOISAO,1,,,155,0.15,10022,20059,30379,30379,,Vien thong,Vien thong,GTGT,566,571,578,5
+38,Vien thong,Dich vu GTGT,Dich vu GTGT khac,Witalk,,,WITALK,1,,,156,0.15,10022,20059,30451,30451,,Vien thong,Vien thong,GTGT,566,571,578,5
+41,Vien thong,Dich vu cong them,Dich vu giau so goi,,,,DICHVUGIAUSOGOI,1,,,159,0.15,10024,20066,20066,20066,,Vien thong,Vien thong,GTGT,566,571,578,6
+42,Vien thong,Dich vu cong them,Dich vu bat so,,,,DICHVUBATSO,1,,,160,0.15,10024,20060,20060,20060,,Vien thong,Vien thong,GTGT,566,571,578,6
+43,Vien thong,Dich vu cong them,Dich vu cho cuoc goi,,,,DICHVUCHOCUOCGOI,1,,,161,0.15,10024,20062,20062,20062,,Vien thong,Vien thong,GTGT,566,571,578,6
+44,Vien thong,Dich vu cong them,Dich vu chuyen cuoc goi,,,,DICHVUCHUYENCUOCGOI,1,,,162,0.15,10024,20063,20063,20063,,Vien thong,Vien thong,GTGT,566,571,578,6
+45,Vien thong,Dich vu cong them,Dich vu chan cuoc goi,,,,DICHVUCHANCUOCGOI,1,,,163,0.15,10024,20061,20061,20061,,Vien thong,Vien thong,GTGT,566,571,578,6
+46,Vien thong,Dich vu cong them,Dich vu quay so tat,,,,DICHVUQUAYSOTAT,1,,,164,0.15,10024,20068,20068,20068,,Vien thong,Vien thong,GTGT,566,571,578,6
+49,Vien thong,Dich vu cong them,Dich vu cong them khac,Hop thu thoai MCA,,,HOPTHUTHOAIMCA,1,,,167,0.15,10024,20064,30282,30282,,Vien thong,Vien thong,GTGT,566,571,578,6
+50,Vien thong,Dich vu cong them,Dich vu cong them khac,SMS Barring,,,SMSBARRING,1,,,168,0.15,10024,20064,30369,30369,,Vien thong,Vien thong,GTGT,566,571,578,6
+51,Vien thong,Dich vu cong them,Dich vu cong them khac,SMS Plus,,,SMSPLUS,1,,,169,0.15,10024,20064,30371,30371,,Vien thong,Vien thong,GTGT,566,571,578,6
+53,Vien thong,Dich vu cong them,Dich vu cong them khac,Call Busy,,,CALLBUSY,1,,,171,0.15,10024,20064,30175,30175,,Vien thong,Vien thong,GTGT,566,571,578,6
+54,Vien thong,Dich vu cong them,Dich vu cong them khac,Fun Status,,,FUNSTATUS,1,,,172,0.15,10024,20064,30243,30243,,Vien thong,Vien thong,GTGT,566,571,578,6
+55,Vien thong,Dich vu cong them,Dich vu cong them khac,mStatus,,,MSTATUS,1,,,173,0.15,10024,20064,30501,30501,,Vien thong,Vien thong,GTGT,566,571,578,6
+57,Vien thong,Dich vu cong them,Dich vu cong them khac,Buzz Me,,,BUZZME,1,,,175,0.15,10024,20064,30170,30170,,Vien thong,Vien thong,GTGT,566,571,578,6
+58,Vien thong,Dich vu cong them,Dich vu cong them khac,Loi nhan thoai,,,LOINHANTHOAI,1,,,176,0.15,10024,20064,30306,30306,,Vien thong,Vien thong,GTGT,566,571,578,6
+59,Vien thong,Dich vu cong them,Dich vu cong them khac,Dich vu doi so online (DVDS),,,DICHVUDOISOONLINE(DVDS),1,,,177,0.15,10024,20064,30211,30211,,Vien thong,Vien thong,Khac,566,571,581,6
+61,Vien thong,Ban the,Doanh thu ban the cao (the vat ly),,,,DOANHTHUBANTHECAO(THEVATLY),1,,,178,0.15,10016,20081,20081,20081,,Vien thong,Vien thong,Khac,566,571,581,11
+63,Vien thong,Ban the,Doanh thu ban ma the,,,,DOANHTHUBANMATHE,1,,,180,0.15,10016,20078,20078,20078,,Vien thong,Vien thong,Khac,566,571,581,11
+64,Vien thong,Ban the,"Doanh thu ban the khac (airtime, topup)",,,,"DOANHTHUBANTHEKHAC(AIRTIME,TOPUP)",1,,,181,0.15,10016,20082,20082,20082,,Vien thong,Vien thong,Khac,566,571,581,11
+66,Vien thong,Goi cuoc tra truoc,,LDR,,,LDR,1,,,183,0.15,10038,10038,30299,30299,,Vien thong,Vien thong,Khac,566,571,581,11
+67,Vien thong,Goi cuoc tra truoc,,Data mall,,,DATAMALL,1,,,184,0.15,10038,10038,30203,30203,,Vien thong,Vien thong,Khac,566,571,581,11
+70,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,MobiFone NEXT (tinh nang chuyen tien),,,MOBIFONENEXT(TINHNANGCHUYENTIEN),1,,,187,0.15,10028,20073,30329,30329,,Vien thong,Vien thong,GTGT,566,571,578,11
+71,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Fast Share,,,FASTSHARE,1,,,188,0.15,10028,20073,30239,30239,,Vien thong,Vien thong,GTGT,566,571,578,11
+72,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Fast Credit,,,FASTCREDIT,1,,,189,0.15,10028,20073,30238,30238,,Vien thong,Vien thong,GTGT,566,571,578,11
+74,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,Ung tien 900,Phi ung,,PHIUNG_900,1,,,191,0.15,10028,20073,30421,40565,,Vien thong,Vien thong,GTGT,566,571,578,11
+77,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,M2U,,,M2U,1,,,193,0.15,10028,20073,30312,30312,,Vien thong,Vien thong,GTGT,566,571,578,11
+78,Vien thong,Dich vu ung/ chuyen tien,Dich vu ung/ chuyen tien,M2D,,,M2D,1,,,194,0.15,10028,20073,30311,30311,,Vien thong,Vien thong,Khac,566,571,581,11
+79,Vien thong,Cuoc ket noi,Thoai,Trong nuoc,Tu mang di dong SMP,,TUMANGDIDONGSMPVOICE,1,,,195,0.15,10017,20112,30617,40557,,Vien thong,Vien thong,Khac,566,571,581,11
+81,Vien thong,Cuoc ket noi,Thoai,Trong nuoc,Tu mang co dinh,,TUMANGCODINHVOICE,1,,,196,0.15,10017,20112,30617,40555,,Vien thong,Vien thong,Khac,566,571,581,11
+82,Vien thong,Cuoc ket noi,Thoai,Trong nuoc,Khac,,KHACVOICE,1,,,197,0.15,10017,20112,30613,30613,,Vien thong,Vien thong,Khac,566,571,581,11
+83,Vien thong,Cuoc ket noi,Thoai,Quoc te,QT chieu ve onnet,,QTCHIEUVEONNET,1,,,198,0.15,10017,20112,30364,40538,,Vien thong,Vien thong,Khac,566,571,581,11
+84,Vien thong,Cuoc ket noi,Thoai,Quoc te,QT chieu ve offnet,,QTCHIEUVEOFFNET,1,,,199,0.15,10017,20112,30364,40537,,Vien thong,Vien thong,Khac,566,571,581,11
+85,Vien thong,Cuoc ket noi,Thoai,Quoc te,QT transit,,QTTRANSIT,1,,,200,0.15,10017,20112,30364,40539,,Vien thong,Vien thong,Khac,566,571,581,11
+86,Vien thong,Cuoc ket noi,SMS,Trong nuoc,Tu mang di dong SMP,,TUMANGDIDONGSMPSMS,1,,,201,0.15,10017,20106,30416,40569,,Vien thong,Vien thong,Khac,566,571,581,11
+87,Vien thong,Cuoc ket noi,SMS,Trong nuoc,Tu mang di dong Non SMP,,TUMANGDIDONGNONSMPSMS,1,,,202,0.15,10017,20106,30416,40568,,Vien thong,Vien thong,Khac,566,571,581,11
+88,Vien thong,Cuoc ket noi,SMS,Trong nuoc,Co dinh,,CODINHSMS,1,,,203,0.15,10017,20106,30416,40519,,Vien thong,Vien thong,Khac,566,571,581,11
+326,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,O chu may man,,OCHUMAYMAN,3,,,204,0.11,10025,20051,30174,40535,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+60,Vien thong,Dich vu cong them,Dich vu cong them khac,"Thay so trong nhom (PQ, PAQ va MPNT)",,,"THAYSOTRONGNHOM(PQ,PAQVAMPNT)",1,,,205,0.15,10024,20064,30392,30392,,Vien thong,Vien thong,Khac,566,571,581,6
+60.1,Vien thong,Dich vu cong them,Dich vu cong them khac,Chon so,,,CHONSO,1,,,206,0.15,10024,20064,30185,30185,,Vien thong,Vien thong,Khac,566,571,581,6
+327,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Ty phu mua he,,TYPHUMUAHE,3,,,207,0.11,10025,20051,30174,40558,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+329,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Loc vang don xuan,,LOCVANGDONXUAN,3,,,209,0.11,10025,20051,30174,40533,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+330,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,The gioi dien anh,,THEGIOIDIENANH,3,,,210,0.11,10025,20051,30174,40548,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+331,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Dep 365,,DEP365,3,,,211,0.11,10025,20051,30174,40522,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+333,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,Yeu the thao,,YEUTHETHAO,3,,,213,0.11,10025,20051,30174,40560,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+334,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM trung thuong,mbox,,MBOX,3,,,214,0.11,10025,20051,30174,40561,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+336,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,CTKM Liveinfo,,,CTKMLIVEINFO,3,,,216,0.11,10025,20051,30172,30172,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+337,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Dau truong tri thuc,,,DAUTRUONGTRITHUC,3,,,217,0.11,10025,20051,30208,30208,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+338,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Tranh tai vot do,,,TRANHTAIVOTDO,3,,,218,0.11,10025,20051,30411,30411,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+340,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,mcontest,,,MCONTEST,3,,,220,0.11,10025,20051,30508,30508,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+341,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Lucky Sport,,,LUCKYSPORT,3,,,221,0.11,10025,20051,30307,30307,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+343,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Soi Dong cau truong,,,SOIDONGCAUTRUONG,3,,,223,0.11,10025,20051,30382,30382,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+344,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Luom qua,,,LUOMQUA,3,,,224,0.11,10025,20051,30309,30309,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+346,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,iBid,,,IBID,3,,,226,0.11,10025,20051,30470,30470,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+347,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Index99,,,INDEX99,3,,,227,0.11,10025,20051,30286,30286,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+349,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,ESET,,,ESET,3,,,229,0.11,10025,20051,30227,30227,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+350,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,BitDefender,,,BITDEFENDER,3,,,230,0.11,10025,20051,30166,30166,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
+351,Da dich vu,Dich vu noi dung so,Cac dich vu noi dung thong tin so khac,Ket ban Hulaa,,,KETBANHULAA,3,,,231,0.11,10025,20051,30293,30293,,Da dich vu,Da dich vu khac,Da dich vu khac,565,570,576,9
